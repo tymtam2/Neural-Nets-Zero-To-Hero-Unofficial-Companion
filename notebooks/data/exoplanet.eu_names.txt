@@ -1,0 +1,5197 @@
+11 com b
+11 oph b
+11 umi b
+14 and b
+14 her b
+14 her c
+16 cyg b b
+17 sco b
+18 del b
+1i
+1rxs 1609 b
+1rxs j235133-3+312720 b
+1swasp j1407 b
+24 boo b
+24 sex b
+24 sex c
+2i
+2m 0103-55 (ab) b
+2m 0219-39 b
+2m 0441+23 b
+2m 1252+2735 b
+2m 1253+2734 b
+2m 1258+2630 b
+2m 2140+16 b
+2m 2206-20 b
+2m 2236+4751 b
+2m j2126-81 b
+2m0045+16
+2m0117-34
+2m0355
+2m0437 b
+2m0444
+2m0838+15 b
+2m0838+15 c
+2m1059-21 b
+2m1207 a
+2m1207 b
+2m1510a a
+2m1510a b
+2mass 0359+2009 b
+2mass j0001+1535
+2mass j0030-1450
+2mass j0031+5749
+2mass j00413538-5621127 a
+2mass j00413538-5621127 b
+2mass j01225093-2439505 b
+2mass j0153-6744
+2mass j0249-0557 (ab) c
+2mass j0249-0557a
+2mass j0249-0557b
+2mass j0326-2102
+2mass j0342-6817
+2mass j0348-6022
+2mass j0407+1546
+2mass j0447-1216
+2mass j0459-2853
+2mass j0506+5236
+2mass j0642+4101
+2mass j0718-6415
+2mass j0809+4434
+2mass j0951-8023
+2mass j10475385+2124234
+2mass j11011926-7732383 a
+2mass j11011926-7732383 b
+2mass j1119-1137  bi
+2mass j1119-1137 b
+2mass j1155-7919 b
+2mass j1219+3128
+2mass j1450-7841 a
+2mass j1450-7841 b
+2mass j15344984-2952274 a
+2mass j15344984-2952274 b
+2mass j1551+0941
+2mass j155947+440359 b
+2mass j1647+5632
+2mass j1741-4642
+2mass j2002-0521
+2mass j2117-2940
+2mass j2154-1055
+2mass j2206+3301
+2mass j2206-4217
+2mass j2250+2325 b
+2mass j2322-6151
+2mass j2343-3646
+2massw j2208136+292121
+3 cnc b
+38 vir b
+4 uma b
+44 uma b
+47 uma b
+47 uma c
+47 uma d
+51 eri b
+51 peg b
+55 cnc b
+55 cnc c
+55 cnc d
+55 cnc e
+55 cnc f
+6 lyn b
+61 vir b
+61 vir c
+61 vir d
+7 cma c
+7 cma b
+70 vir b
+75 cet b
+8 umi b
+81 cet b
+91 aqr b
+ab aur b
+ab dor c b
+ab pic b
+ad 3116 b
+as 205 a b
+asassn-16kr b
+asassn-17jf b
+au mic b
+au mic c
+bd+03 2562 b
+bd+14 4559 b
+bd+15 2375 b
+bd+15 2940 b
+bd+20 2457 b
+bd+20 2457 c
+bd+20 274 b
+bd+20 594 b
+bd+24 4697 b
+bd+26 1888 b
+bd+45 564 b
+bd+48 738 b
+bd+48 740 b
+bd+49 828 b
+bd+55 362 b
+bd+60 1417 b
+bd+63 1405 b
+bd-00 4475 b
+bd-06 1339 c
+bd-06 1339 d
+bd-08 2823 b
+bd-08 2823 c
+bd-10 3166 b
+bd-11 4672 b
+bd-11 4672 c
+bd-17 63 b
+blg-1691l b
+cd cet b
+cd-35 2722 b
+cfbd 1458 b
+cfbds 1458 a
+cfbds0059
+cfbdsir j2149-0403 b
+chxr 73 b
+ci tau b
+cneos 2014-01-08
+coconuts-2 b
+coconuts-3 b
+ct cha b
+cwise 0146-0508a b
+cwisep j144606-62-231717-8
+cwisep j1935-1546
+cha ha 8 b
+chang 134 b
+corot-1 b
+corot-10 b
+corot-11 b
+corot-12 b
+corot-13 b
+corot-14 b
+corot-15 b
+corot-16 b
+corot-17 b
+corot-18 b
+corot-19 b
+corot-2 b
+corot-20 b
+corot-20 c
+corot-21 b
+corot-22 b
+corot-23 b
+corot-24 b
+corot-24 c
+corot-25 b
+corot-26 b
+corot-27 b
+corot-28 b
+corot-29 b
+corot-3 b
+corot-30 b
+corot-31 b
+corot-32 b
+corot-33 b
+corot-35 b
+corot-36 b
+corot-4 b
+corot-5 b
+corot-6 b
+corot-7 b
+corot-7 c
+corot-7 d
+corot-8 b
+corot-9 b
+dance j15454024-2422072
+dance j15481655-2307430
+dance j15582895-2530319
+dance j16041234-2127472
+dance j16053908-2403330
+dance j16064467-2033428
+dance j16064553-2121595
+dance j16081299-2304316
+dance j16091010-1930376
+dance j16134589-2442310
+dance j16135217-2443562
+dance j16140756-2211524
+dance j16255679-2113354
+dance j16393029-2454135
+de cvn b
+de0630-18 (bc)
+de0630-18 a
+denis-p j082303-1-491201 b
+dh tau b
+dp leo (ab) b
+ds tuc a b
+dw lyn b
+dw uma b
+epic 201170410 b
+epic 201238110 b
+epic 201295312 b
+epic 201497682 b
+epic 201757695 b
+epic 201833600 c
+epic 201841433 b
+epic 205084841 b
+epic 205950854 c
+epic 206024342 b
+epic 206032309 b
+epic 206042996 b
+epic 206061524 b
+epic 206215704 b
+epic 206317286 b
+epic 211442297 b
+epic 211939692-01
+epic 211939692-02
+epic 211945201 b
+epic 212036875 b
+epic 212297394 b
+epic 212424622 b
+epic 212499991 b
+epic 212587672 b
+epic 212737443 b
+epic 212737443 c
+epic 219388192 b
+epic 220554210 c
+epic 246193072 b
+epic 246851721 b
+fl lyr b
+fu tau b
+fomalhaut b
+g 196-3 b
+g 264-012 b
+g 264-012 c
+g 9-40 b
+g204-39 b
+gj 1061 b
+gj 1061 c
+gj 1061 d
+gj 1132 b
+gj 1132 c
+gj 1214 b
+gj 1252 b
+gj 1265 b
+gj 143 b
+gj 143 c
+gj 15a b
+gj 15a c
+gj 160-2 b
+gj 163 b
+gj 163 c
+gj 163 d
+gj 163 e
+gj 163 f
+gj 176 b
+gj 176 c
+gj 179 b
+gj 179 c
+gj 180 b
+gj 180 c
+gj 180 d
+gj 2030 b
+gj 2030 c
+gj 2056 b
+gj 2056 c
+gj 221 e
+gj 229 a b
+gj 229 a c
+gj 229 b
+gj 251 b
+gj 27-1 b
+gj 273 b
+gj 273 c
+gj 273 d
+gj 273 e
+gj 3021 b
+gj 3082 b
+gj 3090 b
+gj 3138 b
+gj 3138 c
+gj 3138 d
+gj 317 b
+gj 317 c
+gj 328 b
+gj 3293 b
+gj 3293 c
+gj 3293 d
+gj 3293 e
+gj 3323 b
+gj 3323 c
+gj 3341 b
+gj 3470 b
+gj 3473 b
+gj 3473 c
+gj 3512 b
+gj 3512 c
+gj 357 b
+gj 357 c
+gj 357 d
+gj 3634 b
+gj 367  b
+gj 3779 b
+gj 3929 b
+gj 3929 c
+gj 393 b
+gj 3942 b
+gj 3998 b
+gj 3998 c
+gj 414 a b
+gj 414 a c
+gj 422 b
+gj 4276 b
+gj 4276 c
+gj 433 b
+gj 433 c
+gj 433 d
+gj 436 b
+gj 480 b
+gj 486 b
+gj 504 b
+gj 536 b
+gj 570 d
+gj 581 b
+gj 581 c
+gj 581 e
+gj 625 b
+gj 649 b
+gj 649 c
+gj 667 c b
+gj 667 c c
+gj 667 c e
+gj 667 c f
+gj 667 c g
+gj 674 b
+gj 676 a b
+gj 676 a c
+gj 676 a d
+gj 676 a e
+gj 682 b
+gj 682 c
+gj 685 b
+gj 687 b
+gj 687 c
+gj 720a b
+gj 740 b
+gj 752 a b
+gj 758 b
+gj 785 b
+gj 785 c
+gj 832 b
+gj 832 c
+gj 849 b
+gj 849 c
+gj 86 b
+gj 876 b
+gj 876 c
+gj 876 d
+gj 876 e
+gj 887 b
+gj 887 c
+gj 896a b
+gj 9066 b
+gj 9066 c
+gj 96 b
+gj 9689 b
+gj 9827 b
+gj 9827 c
+gj 9827 d
+glass- jwst-bd1
+gp com b
+gpx-1 b
+gq lup b
+gsc 08047-00232 b
+gsc 6214-210 b
+gu psc b
+gaia edr3 2077240046296834304 b
+gaia-1 b
+gaia-2 b
+gaia14aae b
+gl 378 b
+gl 514 b
+gl 569b b
+gl 686 b
+gliese 49 b
+hat-p-1 b
+hat-p-10 a b
+hat-p-11 b
+hat-p-11 c
+hat-p-12 b
+hat-p-13 b
+hat-p-13 c
+hat-p-14 b
+hat-p-15 b
+hat-p-16 b
+hat-p-17 b
+hat-p-17 c
+hat-p-18 b
+hat-p-19 b
+hat-p-2 b
+hat-p-20 b
+hat-p-21 b
+hat-p-22 b
+hat-p-23 b
+hat-p-24 b
+hat-p-25 b
+hat-p-26 b
+hat-p-27 b
+hat-p-28 b
+hat-p-29 b
+hat-p-3 b
+hat-p-30 b
+hat-p-31 b
+hat-p-32 b
+hat-p-33 b
+hat-p-34 b
+hat-p-35 b
+hat-p-36 b
+hat-p-37 b
+hat-p-38 b
+hat-p-39 b
+hat-p-4 b
+hat-p-40 b
+hat-p-41 b
+hat-p-42 b
+hat-p-43 b
+hat-p-44 b
+hat-p-44 c
+hat-p-45 b
+hat-p-46 b
+hat-p-46 c
+hat-p-47 b
+hat-p-48 b
+hat-p-49 b
+hat-p-5 b
+hat-p-50 b
+hat-p-51 b
+hat-p-52 b
+hat-p-53 b
+hat-p-54 b
+hat-p-55 b
+hat-p-56 b
+hat-p-57 b
+hat-p-58 b
+hat-p-59 b
+hat-p-6 b
+hat-p-60 b
+hat-p-61 b
+hat-p-62 b
+hat-p-63 b
+hat-p-64 b
+hat-p-65 b
+hat-p-66 b
+hat-p-67 b
+hat-p-68 b
+hat-p-69 b
+hat-p-7 b
+hat-p-70 b
+hat-p-8 b
+hat-p-9 b
+hats-1 b
+hats-10 b
+hats-11 b
+hats-12 b
+hats-13 b
+hats-14 b
+hats-15 b
+hats-16 b
+hats-17 b
+hats-18 b
+hats-19 b
+hats-2 b
+hats-20 b
+hats-21 b
+hats-22 b
+hats-23 b
+hats-24 b
+hats-25 b
+hats-26 b
+hats-27 b
+hats-28 b
+hats-29 b
+hats-3 b
+hats-30 b
+hats-31 b
+hats-32 b
+hats-33 b
+hats-34 b
+hats-35 b
+hats-36 b
+hats-37a b
+hats-38 b
+hats-39 b
+hats-4 b
+hats-40 b
+hats-41 b
+hats-42 b
+hats-43 b
+hats-44 b
+hats-45 b
+hats-46 b
+hats-47 b
+hats-48a b
+hats-49 b
+hats-5 b
+hats-50 b
+hats-51 b
+hats-52 b
+hats-53 b
+hats-54 b
+hats-55 b
+hats-56 b
+hats-57 b
+hats-58a b
+hats-59 b
+hats-59 c
+hats-6 b
+hats-60 b
+hats-61 b
+hats-62 b
+hats-63 b
+hats-64 b
+hats-65 b
+hats-66 b
+hats-67 b
+hats-68 b
+hats-69 b
+hats-7 b
+hats-70 b
+hats-71a b
+hats-72 b
+hats-74a b
+hats-75 b
+hats-76 b
+hats-77 b
+hats-8 b
+hats-9 b
+hd 100655 b
+hd 100777 b
+hd 10180 c
+hd 10180 d
+hd 10180 e
+hd 10180 f
+hd 10180 g
+hd 10180 h
+hd 101930 b
+hd 102117 b
+hd 102195 b
+hd 102272 b
+hd 102272 c
+hd 102329 b
+hd 102329 c
+hd 102365 a b
+hd 102843 b
+hd 102956 b
+hd 103197 b
+hd 103720 b
+hd 103774 a b
+hd 103891 b
+hd 103949 b
+hd 104067 b
+hd 10442 b
+hd 104985 b
+hd 105779 b
+hd 106252 b
+hd 106270 b
+hd 106315 b
+hd 106315 c
+hd 10647 b
+hd 106515 a b
+hd 106574 b
+hd 106906 (ab) b
+hd 10697 b
+hd 107148 b
+hd 107148 c
+hd 108147 b
+hd 108236 b
+hd 108236 c
+hd 108236 d
+hd 108236 e
+hd 108236 f
+hd 108341 a b
+hd 108863 b
+hd 108874 b
+hd 108874 c
+hd 109246 b
+hd 109271 b
+hd 109271 c
+hd 109286 b
+hd 109749 b
+hd 10975 b
+hd 110014 b
+hd 110014 c
+hd 110113 b
+hd 110113 c
+hd 111232 b
+hd 111591 b
+hd 11231 b
+hd 112640 b
+hd 113337 b
+hd 113337 c
+hd 113538 b
+hd 113538 c
+hd 113996 b
+hd 114386 b
+hd 114386 c
+hd 114613 b
+hd 114729 a b
+hd 114783 b
+hd 114783 c
+hd 11506 b
+hd 11506 c
+hd 115594 b
+hd 1160 b
+hd 116029 a b
+hd 116029 a c
+hd 117207 b
+hd 11755 b
+hd 117618 b
+hd 118203 b
+hd 118865 b
+hd 118904 b
+hd 119445 b
+hd 11964 b
+hd 11964 c
+hd 11977 b
+hd 120084 b
+hd 121504 b
+hd 122562 b
+hd 124330 b
+hd 12484 b
+hd 125390 b
+hd 125595 b
+hd 125612 b
+hd 125612 c
+hd 125612 d
+hd 126053 b
+hd 12648 b
+hd 126525 b
+hd 12661 b
+hd 12661 c
+hd 126614 a b
+hd 128311 b
+hd 128311 c
+hd 128356 b
+hd 129445 b
+hd 130322 b
+hd 131496 b
+hd 131664 b
+hd 13167 b
+hd 13189 b
+hd 132406 b
+hd 132563 b b
+hd 133131 a b
+hd 133131 a c
+hd 133131 b b
+hd 134060 b
+hd 134060 c
+hd 134113 b
+hd 134606 b
+hd 134606 c
+hd 134606 d
+hd 134987 b
+hd 134987 c
+hd 136118 b
+hd 136352 b
+hd 136352 c
+hd 136352 d
+hd 136418 b
+hd 136925 b
+hd 13724 b
+hd 137388 b
+hd 137496 b
+hd 137496 c
+hd 137510 b
+hd 13808 b
+hd 13808 c
+hd 13908 b
+hd 13908 c
+hd 13931 b
+hd 139357 b
+hd 1397 b
+hd 14067 b
+hd 141399 b
+hd 141399 c
+hd 141399 d
+hd 141399 e
+hd 141937 b
+hd 142 a b
+hd 142 a c
+hd 142022 a b
+hd 142245 a b
+hd 142415 b
+hd 143105 b
+hd 143361 b
+hd 143761 b
+hd 143761 c
+hd 145377 b
+hd 145457 b
+hd 145934 b
+hd 1461 b
+hd 1461 c
+hd 147018 b
+hd 147018 c
+hd 147379 b
+hd 147513 b
+hd 14787 b
+hd 147873 b
+hd 147873 c
+hd 148156 b
+hd 148164 b
+hd 148164 c
+hd 148284 b
+hd 149026 b
+hd 149143 b
+hd 1502 b
+hd 150433 b
+hd 150706 b
+hd 152079 b
+hd 152581 b
+hd 152843 b
+hd 152843 c
+hd 153950 b
+hd 154088 b
+hd 154345 b
+hd 154672 b
+hd 154857 b
+hd 154857 c
+hd 155193 b
+hd 155233 b
+hd 155358 b
+hd 155358 c
+hd 156279 b
+hd 156279 c
+hd 156411 b
+hd 156668 b
+hd 156668 c
+hd 157172 b
+hd 158038 b
+hd 158259 b
+hd 158259 c
+hd 158259 d
+hd 158259 e
+hd 158259 f
+hd 158996 b
+hd 159243 b
+hd 159243 c
+hd 159868 b
+hd 159868 c
+hd 1605 b
+hd 1605 c
+hd 160508 b
+hd 161178 b
+hd 16141 a b
+hd 16175 b
+hd 162004 b
+hd 163296 b
+hd 163296 c
+hd 163607 b
+hd 163607 c
+hd 16417 b
+hd 164428 b
+hd 164509 b
+hd 164595 b
+hd 164604 b
+hd 164922 b
+hd 164922 c
+hd 164922 d
+hd 164922 e
+hd 165155 b
+hd 1666 b
+hd 166724 b
+hd 167042 b
+hd 168443 b
+hd 168443 c
+hd 168746 b
+hd 1690 b
+hd 169142 b
+hd 169830 b
+hd 169830 c
+hd 170469 b
+hd 17092 b
+hd 171028 b
+hd 171238 b
+hd 17156 b
+hd 173416 b
+hd 175167 b
+hd 175370 b
+hd 175541 b
+hd 175607 b
+hd 176051 b
+hd 17674 b
+hd 176986 b
+hd 176986 c
+hd 177830 a b
+hd 177830 a c
+hd 178911 b b
+hd 179079 b
+hd 179949 b
+hd 180053 b
+hd 18015 b
+hd 180314 b
+hd 180777 b
+hd 180902 b
+hd 181234 b
+hd 181342 b
+hd 181433 b
+hd 181433 c
+hd 181433 d
+hd 181720 b
+hd 183263 b
+hd 183263 c
+hd 183579 b
+hd 184010 b
+hd 184010 c
+hd 184010 d
+hd 184601 b
+hd 185269 a b
+hd 187085 b
+hd 187123 b
+hd 187123 c
+hd 18742 b
+hd 188015 b
+hd 189567 b
+hd 189567 c
+hd 189733 b
+hd 190007 b
+hd 190228 b
+hd 190360 b
+hd 190360 c
+hd 190647 b
+hd 190984 b
+hd 191806 b
+hd 191939 b
+hd 191939 c
+hd 191939 d
+hd 191939 e
+hd 192263 b
+hd 192699 b
+hd 19467 b
+hd 195019 b
+hd 196050 b
+hd 196067 b
+hd 196885 a b
+hd 197037 a b
+hd 19994 a b
+hd 20003 b
+hd 20003 c
+hd 200964 b
+hd 200964 c
+hd 202206 (ab) c
+hd 202432 b
+hd 202696 b
+hd 202696 c
+hd 202772 a b
+hd 203030 b
+hd 203473 b
+hd 20367 b
+hd 2039 b
+hd 204313 b
+hd 204313 c
+hd 204313 d
+hd 204941 b
+hd 205521 b
+hd 205739 b
+hd 206255 b
+hd 206610 b
+hd 206893 b
+hd 20781 b
+hd 20781 c
+hd 20781 d
+hd 20781 e
+hd 20782 b
+hd 207832 a b
+hd 207832 a c
+hd 207897 b
+hd 20794 b
+hd 20794 d
+hd 20794 e
+hd 208487 b
+hd 208487 c
+hd 208527 b
+hd 20868 b
+hd 208897 b
+hd 209458 b
+hd 210193 b
+hd 210277 b
+hd 210702 b
+hd 211403 b
+hd 211810 b
+hd 211847 b
+hd 211970 b
+hd 212301 a b
+hd 212771 b
+hd 213240 b
+hd 213472 b
+hd 213885 b
+hd 213885 c
+hd 21411 b
+hd 214823 b
+hd 215152 b
+hd 215152 c
+hd 215152 d
+hd 215152 e
+hd 215456 b
+hd 215456 c
+hd 215497 b
+hd 215497 c
+hd 216435 b
+hd 216437 b
+hd 216520 b
+hd 216520 c
+hd 216536 b
+hd 216770 b
+hd 21693 b
+hd 21693 c
+hd 217107 b
+hd 217107 c
+hd 217786 a b
+hd 217850 b
+hd 218566 b
+hd 219077 b
+hd 219134 b
+hd 219134 c
+hd 219134 d
+hd 219134 e
+hd 219134 f
+hd 219134 g
+hd 219134 h
+hd 219139 b
+hd 219415 b
+hd 219666 b
+hd 219828 b
+hd 219828 c
+hd 220074 b
+hd 220197 b
+hd 220689 b
+hd 220773 b
+hd 220842 a b
+hd 221287 b
+hd 221416 b
+hd 221420 b
+hd 221585 b
+hd 222076 b
+hd 222155 b
+hd 222582 b
+hd 224538 b
+hd 224693 b
+hd 22496 b
+hd 22532 b
+hd 22781 b
+hd 22946 b
+hd 22946 c
+hd 23079 b
+hd 23127 b
+hd 231701 b
+hd 233604 b
+hd 233832 b
+hd 23472 b
+hd 23472 c
+hd 23472 d
+hd 23472 e
+hd 23472 f
+hd 23596 b
+hd 238090 b
+hd 238914 b
+hd 240210 b
+hd 240237 b
+hd 24040 b
+hd 24040 c
+hd 24064 b
+hd 24085 b
+hd 25015 b
+hd 25171 b
+hd 25723 b
+hd 25723 c
+hd 260655 b
+hd 260655 c
+hd 26161 b
+hd 2638 b
+hd 2685 b
+hd 26965 b
+hd 27442 b
+hd 27631 b
+hd 27894 b
+hd 27894 c
+hd 27894 d
+hd 27969 b
+hd 28109 b
+hd 28109 c
+hd 28109 d
+hd 28185 b
+hd 28254 a b
+hd 283668 b
+hd 283869 b
+hd 284149 b
+hd 285507 b
+hd 28678 b
+hd 29021 b
+hd 290327 b
+hd 29399 b
+hd 2952 b
+hd 30177 b
+hd 30177 c
+hd 30562 b
+hd 30669 b
+hd 30856 a b
+hd 31253 b
+hd 31527 b
+hd 31527 c
+hd 31527 d
+hd 3167 b
+hd 3167 c
+hd 3167 d
+hd 3167 e
+hd 32518 b
+hd 32963 b
+hd 330075 b
+hd 331093 b
+hd 33142 b
+hd 33142 c
+hd 33142 d
+hd 332231 b
+hd 33283 b
+hd 33564 b
+hd 33632 a b
+hd 33844 b
+hd 33844 c
+hd 34445 b
+hd 34445 c
+hd 34445 d
+hd 34445 e
+hd 34445 f
+hd 34445 g
+hd 35759 b
+hd 360 b
+hd 3651 b
+hd 3651b
+hd 37124 b
+hd 37124 c
+hd 37124 d
+hd 37605 b
+hd 37605 c
+hd 38283 b
+hd 38529 b
+hd 38529 c
+hd 38677 b
+hd 38677 c
+hd 38677 d
+hd 38677 e
+hd 38801 b
+hd 38858 b
+hd 39194 b
+hd 39194 c
+hd 39194 d
+hd 39392 b
+hd 39855 b
+hd 40307 b
+hd 40307 c
+hd 40307 d
+hd 40307 e
+hd 40307 f
+hd 40307 g
+hd 40956 b
+hd 40979 b
+hd 41004 a b
+hd 41004 b b
+hd 4113 a b
+hd 42012 b
+hd 4203 b
+hd 4203 c
+hd 4208 b
+hd 42618 b
+hd 42936 b
+hd 4308 b
+hd 4313 b
+hd 43197 b
+hd 43691 a b
+hd 44219 b
+hd 44385 b
+hd 45184 b
+hd 45184 c
+hd 45350 b
+hd 45364 b
+hd 45364 c
+hd 45652 b
+hd 46375 a b
+hd 47186 b
+hd 47186 c
+hd 4732 a b
+hd 4732 a c
+hd 47366 b
+hd 47366 c
+hd 4747 b
+hd 47536 b
+hd 4760 b
+hd 48265 b
+hd 4917 b
+hd 49674 b
+hd 50499 b
+hd 50499 c
+hd 50554 b
+hd 51608 b
+hd 51608 c
+hd 52265 b
+hd 5278 b
+hd 5278 c
+hd 5319 b
+hd 5319 c
+hd 5388 b
+hd 5433 b
+hd 55696 b
+hd 5583 b
+hd 5608 b
+hd 564 b
+hd 56414 b
+hd 5891 b
+hd 59686 a b
+hd 60292 b
+hd 60532 b
+hd 60532 c
+hd 60584 b
+hd 62509 b
+hd 63433 b
+hd 63433 c
+hd 63454 b
+hd 63765 b
+hd 63935 b
+hd 63935 c
+hd 64114 b
+hd 64121 b
+hd 6434 b
+hd 65216 a b
+hd 65216 a c
+hd 66141 b
+hd 66428 b
+hd 66428 c
+hd 67087 b
+hd 67087 c
+hd 6718 b
+hd 68402 b
+hd 68988 b
+hd 68988 c
+hd 69123 b
+hd 69830 b
+hd 69830 c
+hd 69830 d
+hd 70642 b
+hd 7199 b
+hd 72490 b
+hd 72659 b
+hd 72892 b
+hd 73267 b
+hd 73526 b
+hd 73526 c
+hd 73534 b
+hd 73583 b
+hd 73583 c
+hd 74156 b
+hd 74156 c
+hd 7449 a b
+hd 7449 a c
+hd 75289 b
+hd 75784 b
+hd 75784 c
+hd 75898 b
+hd 76700 b
+hd 76920 b
+hd 77065 b
+hd 77338 b
+hd 79181 b
+hd 79211 b
+hd 7924 b
+hd 7924 c
+hd 7924 d
+hd 79498 b
+hd 80606 b
+hd 80653 b
+hd 80869 b
+hd 81040 b
+hd 81688 b
+hd 81817 b
+hd 82886 b
+hd 82943 b
+hd 82943 c
+hd 82943 d
+hd 8326 b
+hd 83443 b
+hd 83443 c
+hd 8535 b
+hd 85390 b
+hd 85512 b
+hd 85628 a b
+hd 8574 b
+hd 86081 a b
+hd 86226 b
+hd 86264 b
+hd 8673 a b
+hd 86950 b
+hd 87646 a b
+hd 87646 a c
+hd 87883 b
+hd 88133 b
+hd 89307 b
+hd 89345 b
+hd 89744 b
+hd 89744 c
+hd 90156 b
+hd 91669 b
+hd 9174 b
+hd 92788 b
+hd 92788 c
+hd 92987 b
+hd 93083 b
+hd 93385 a b
+hd 93385 a c
+hd 93385 a d
+hd 93963 a b
+hd 93963 a c
+hd 9446 b
+hd 9446 c
+hd 94834 b
+hd 95086 b
+hd 95089 b
+hd 95089 c
+hd 95127 b
+hd 95338 b
+hd 95544 b
+hd 9578 b
+hd 95872 b
+hd 96063 b
+hd 96127 b
+hd 96167 b
+hd 96700 b
+hd 96700 c
+hd 96700 d
+hd 96992 b
+hd 97334 b
+hd 97619 b
+hd 97658 b
+hd 98219 b
+hd 984 b
+hd 98649 b
+hd 98736 b
+hd 99109 b
+hd 99283 b
+hd 99492 b
+hd 99706 b
+hd 99706 c
+hii 1348 b
+hip 105854 b
+hip 107772 b
+hip 107773 b
+hip 109384 b
+hip 109600 b
+hip 114933 b
+hip 116454 b
+hip 11915 b
+hip 12961 b
+hip 14810 b
+hip 14810 c
+hip 14810 d
+hip 21152 b
+hip 29724 b
+hip 3206 b
+hip 34222 b
+hip 35173 b
+hip 36985 b
+hip 38594 b
+hip 38594 c
+hip 38939 b
+hip 41378 b
+hip 41378 c
+hip 41378 d
+hip 41378 e
+hip 41378 f
+hip 4845 b
+hip 48714 b
+hip 5158 b
+hip 5158 c
+hip 5319 b
+hip 54373 b
+hip 54373 c
+hip 56640 b
+hip 57050 b
+hip 57050 c
+hip 57274 b
+hip 57274 c
+hip 57274 d
+hip 5763 b
+hip 63242 b
+hip 63734 b
+hip 64892 b
+hip 65407 b
+hip 65407 c
+hip 65426 b
+hip 65a b
+hip 67522 b
+hip 67537 b
+hip 67851 b
+hip 67851 c
+hip 68468 b
+hip 68468 c
+hip 70849 b
+hip 71135 b
+hip 73990 b
+hip 73990 c
+hip 74865 b
+hip 74890 b
+hip 75056 b
+hip 75092 b
+hip 75458 b
+hip 75458 c
+hip 77257 b
+hip 77900 b
+hip 78530 b
+hip 79098 (ab) b
+hip 79431 b
+hip 79797 ba
+hip 79797 bb
+hip 8541 b
+hip 86221 b
+hip 89474 b
+hip 90988 b
+hip 91258 b
+hip 94235 b
+hip 97166 b
+hip 97166 c
+hip 97233 b
+hn peg b
+hr 2562 b
+hr 3549 b
+hr 5183 b
+hr 7329 b
+hr 7672 b
+hr 810 b
+hr 858 b
+hr 858 c
+hr 858 d
+hr 8799 b
+hr 8799 c
+hr 8799 d
+hr 8799 e
+hw vir (ab) b
+hw vir (ab) c
+ic 4651 9122 b
+itg 15b
+itg 25b
+j1324+63
+j1433 b
+k2-10 b
+k2-100 b
+k2-101 b
+k2-102 b
+k2-103 b
+k2-104 b
+k2-105 b
+k2-106 b
+k2-106 c
+k2-107 b
+k2-108 b
+k2-11 b
+k2-110 b
+k2-111 b
+k2-111 c
+k2-113 b
+k2-114 b
+k2-116 b
+k2-117 b
+k2-117 c
+k2-118 b
+k2-119 b
+k2-12 b
+k2-120 b
+k2-121 b
+k2-122 b
+k2-123 b
+k2-124 b
+k2-125 b
+k2-126 b
+k2-127 b
+k2-128 b
+k2-129 b
+k2-13 b
+k2-130 b
+k2-131 b
+k2-132 b
+k2-133 b
+k2-133 c
+k2-133 d
+k2-136 b
+k2-136 c
+k2-136 d
+k2-137 b
+k2-138 b
+k2-138 c
+k2-138 d
+k2-138 e
+k2-138 f
+k2-138 g
+k2-139 b
+k2-14 b
+k2-140 b
+k2-141 b
+k2-141 c
+k2-146 b
+k2-146 c
+k2-147 b
+k2-148 b
+k2-148 c
+k2-148 d
+k2-149 b
+k2-15 b
+k2-150 b
+k2-151 b
+k2-152 b
+k2-153 b
+k2-154 b
+k2-154 c
+k2-155 b
+k2-155 c
+k2-155 d
+k2-156 b
+k2-157 b
+k2-158 b
+k2-158 c
+k2-159 b
+k2-16 b
+k2-16 c
+k2-16 d
+k2-160 b
+k2-161 b
+k2-162 b
+k2-163 b
+k2-164 b
+k2-165 b
+k2-165 c
+k2-165 d
+k2-166 b
+k2-166 c
+k2-167 b
+k2-168 b
+k2-169 b
+k2-17 b
+k2-170 b
+k2-170 c
+k2-171 b
+k2-172 b
+k2-172 c
+k2-173 b
+k2-174 b
+k2-175 b
+k2-176 b
+k2-177 b
+k2-178 b
+k2-179 b
+k2-18 b
+k2-18 c
+k2-180 b
+k2-181 b
+k2-182 b
+k2-183 b
+k2-183 c
+k2-183 d
+k2-184 b
+k2-185 b
+k2-186 b
+k2-187 b
+k2-187 c
+k2-187 d
+k2-187 e
+k2-188 b
+k2-188 c
+k2-189 b
+k2-189 c
+k2-19 b
+k2-19 c
+k2-19 d
+k2-190 b
+k2-190 c
+k2-191 b
+k2-192 b
+k2-193 b
+k2-194 b
+k2-195 b
+k2-195 c
+k2-196 b
+k2-197 b
+k2-198 b
+k2-198 c
+k2-198 d
+k2-199 b
+k2-199 c
+k2-200 b
+k2-201 b
+k2-201 c
+k2-2016-blg-0005l b
+k2-202 b
+k2-203 b
+k2-204 b
+k2-205 b
+k2-206 b
+k2-207 b
+k2-208 b
+k2-209 b
+k2-21 b
+k2-21 c
+k2-210 b
+k2-211 b
+k2-212 b
+k2-213 b
+k2-214 b
+k2-215 b
+k2-216 b
+k2-217 b
+k2-218 b
+k2-219 b
+k2-219 c
+k2-219 d
+k2-22 b
+k2-220 b
+k2-221 b
+k2-222 b
+k2-223 b
+k2-223 c
+k2-224 b
+k2-224 c
+k2-225 b
+k2-226 b
+k2-227 b
+k2-228 b
+k2-229 b
+k2-229 c
+k2-229 d
+k2-230 b
+k2-231 b
+k2-232 b
+k2-233 b
+k2-233 c
+k2-233 d
+k2-237 b
+k2-238 b
+k2-239 b
+k2-239 c
+k2-239 d
+k2-24 b
+k2-24 c
+k2-240 b
+k2-240 c
+k2-241 b
+k2-242 b
+k2-243 b
+k2-243 c
+k2-244 b
+k2-245 b
+k2-246 b
+k2-247 b
+k2-247 c
+k2-248 b
+k2-249 b
+k2-25 b
+k2-250 b
+k2-251 b
+k2-252 b
+k2-253 b
+k2-254 b
+k2-254 c
+k2-255 b
+k2-256 b
+k2-257 b
+k2-258 b
+k2-259 b
+k2-26 b
+k2-260 b
+k2-261 b
+k2-263 b
+k2-264 b
+k2-264 c
+k2-265 b
+k2-266 b
+k2-266 c
+k2-266 d
+k2-266 e
+k2-268 b
+k2-268 c
+k2-269 b
+k2-27 b
+k2-270 b
+k2-270 c
+k2-271 b
+k2-272 b
+k2-273 b
+k2-274 b
+k2-275 b
+k2-275 c
+k2-276 b
+k2-277 b
+k2-278 b
+k2-279 b
+k2-28 b
+k2-280 b
+k2-281 b
+k2-282 b
+k2-283 b
+k2-284 b
+k2-285 b
+k2-285 c
+k2-285 d
+k2-285 e
+k2-286 b
+k2-287 b
+k2-288b b
+k2-289 b
+k2-29 b
+k2-290 b
+k2-290 c
+k2-291 b
+k2-292 b
+k2-293 b
+k2-294 b
+k2-295 b
+k2-3 b
+k2-3 c
+k2-3 d
+k2-30 b
+k2-308 b
+k2-31 b
+k2-314 b
+k2-314 c
+k2-314 d
+k2-315 b
+k2-316 b
+k2-316 c
+k2-317 b
+k2-318 b
+k2-319 b
+k2-32 b
+k2-32 c
+k2-32 d
+k2-32 e
+k2-320 b
+k2-321 b
+k2-322 b
+k2-323 b
+k2-324 b
+k2-325 b
+k2-326 b
+k2-33 b
+k2-34 b
+k2-35 b
+k2-35 c
+k2-36 b
+k2-36 c
+k2-37 b
+k2-37 c
+k2-37 d
+k2-38 b
+k2-38 c
+k2-39 b
+k2-4 b
+k2-42 b
+k2-43 b
+k2-43 c
+k2-45 b
+k2-46 b
+k2-47 b
+k2-48 b
+k2-49 b
+k2-5 b
+k2-5 c
+k2-50 b
+k2-52 b
+k2-53 b
+k2-54 b
+k2-55 b
+k2-57 b
+k2-58 b
+k2-58 c
+k2-58 d
+k2-59 b
+k2-59 c
+k2-6 b
+k2-60 b
+k2-61 b
+k2-62 b
+k2-62 c
+k2-63 b
+k2-63 c
+k2-64 b
+k2-65 b
+k2-66 b
+k2-68 b
+k2-69 b
+k2-7 b
+k2-70 b
+k2-71 b
+k2-72 b
+k2-72 c
+k2-72 d
+k2-72 e
+k2-73 b
+k2-74 b
+k2-75 b
+k2-75 c
+k2-77 b
+k2-79 b
+k2-8 b
+k2-8 c
+k2-80 b
+k2-80 c
+k2-80 d
+k2-81 b
+k2-83 b
+k2-83 c
+k2-84 b
+k2-84 c
+k2-85 b
+k2-86 b
+k2-87 b
+k2-88 b
+k2-89 b
+k2-9 b
+k2-90 b
+k2-90 c
+k2-91 b
+k2-95 b
+k2-97 b
+k2-98 b
+k2-99 b
+k2-99 c
+kelt-1 b
+kelt-10 b
+kelt-11 b
+kelt-12 b
+kelt-15 b
+kelt-16 b
+kelt-17 b
+kelt-18 b
+kelt-19 a b
+kelt-2 a b
+kelt-21 b
+kelt-22a b
+kelt-23a b
+kelt-25 b
+kelt-3 b
+kelt-4 a b
+kelt-6 b
+kelt-6 c
+kelt-7 b
+kelt-8 b
+kelt-9 b
+kic 10068024 b
+kic 10255705 b
+kic 10544976 (ab) b
+kic 11152511 b
+kic 12454613 b
+kic 3526061 b
+kic 5010054 b
+kic 5094412 b
+kic 5095269 (ab) b
+kic 5479689 b
+kic 5522786 b
+kic 5732155 b
+kic 6372194 b
+kic 7821010 b
+kic 8012732 b
+kic 9413313 b
+kic 9662267 b
+kic 9704149 b
+kmt-2016-blg-0212 b
+kmt-2016-blg-1107 b
+kmt-2016-blg-1397 b
+kmt-2016-blg-1820 b
+kmt-2016-blg-1836l b
+kmt-2016-blg-2142 b
+kmt-2016-blg-2364 b
+kmt-2016-blg-2397 b
+kmt-2016-blg-2605 b
+kmt-2017-blg-0165l b
+kmt-2017-blg-0673l b
+kmt-2017-blg-1038 b
+kmt-2017-blg-1146 b
+kmt-2017-blg-2509 b
+kmt-2017-blg-2820
+kmt-2018-blg-0029 b
+kmt-2018-blg-0030 b
+kmt-2018-blg-0087 b
+kmt-2018-blg-0247 b
+kmt-2018-blg-0748 b
+kmt-2018-blg-1025l b
+kmt-2018-blg-1292l b
+kmt-2018-blg-1743 b
+kmt-2018-blg-1976l b
+kmt-2018-blg-1988l b
+kmt-2018-blg-1990l b
+kmt-2018-blg-2004 b
+kmt-2018-blg-2602 b
+kmt-2018-blg-2718 b
+kmt-2018-blg-1996l b
+kmt-2019-blg-0253 b
+kmt-2019-blg-0371 b
+kmt-2019-blg-0414l b
+kmt-2019-blg-0842 b
+kmt-2019-blg-1042 b
+kmt-2019-blg-1339
+kmt-2019-blg-1552 b
+kmt-2019-blg-1715 b
+kmt-2019-blg-1953l b
+kmt-2019-blg-1953l c
+kmt-2019-blg-2073
+kmt-2019-blg-2974 b
+kmt-2020-blg-0414 b
+kmt-2020-blg-0414 c
+kmt-2021-blg-0119 b
+kmt-2021-blg-0171l b
+kmt-2021-blg-0192 b
+kmt-2021-blg-0240 b
+kmt-2021-blg-0240 c
+kmt-2021-blg-0320 b
+kmt-2021-blg-0712 b
+kmt-2021-blg-0748 b
+kmt-2021-blg-0909 b
+kmt-2021-blg-0912 b
+kmt-2021-blg-1077l b
+kmt-2021-blg-1077l c
+kmt-2021-blg-1105 b
+kmt-2021-blg-1253 b
+kmt-2021-blg-1303 b
+kmt-2021-blg-1372 b
+kmt-2021-blg-1554 b
+kmt-2021-blg-1689l b
+kmt-2021-blg-1898 b
+kmt-2021-blg-1931 b
+kmt-2021-blg-2294 b
+kmt-2021-blg-2478 b
+koi-12 b
+koi-120-01
+koi-1257 b
+koi-13 b
+koi-142 b
+koi-142 c
+koi-1599-01
+koi-1599-02
+koi-1783 b
+koi-1783 c
+koi-2700 b
+koi-368 b
+koi-3680 b
+koi-415 b
+koi-4427-01
+koi-4777
+koi-5 b
+koi-5372 b
+koi-55 b
+koi-55 c
+koi-6276 b
+koi-6526 b
+koi-6532 b
+koi-6538 b
+koi-6653 b
+koi-6656 b
+koi-6664 b
+koi-6666 b
+koi-6672 b
+koi-6791 b
+koi-6793 b
+koi-6795 b
+koi-6798 b
+koi-6918 b
+koi-6919 b
+koi-6921 b
+koi-6925 b
+koi-6931 b
+koi-6934 b
+koi-7051 b
+koi-7054 b
+koi-7057 b
+koi-7069 b
+koi-7073 b
+koi-7076 b
+koi-7197 b
+koi-7205 b
+koi-7209
+koi-7319 b
+koi-7320 b
+koi-7327 b
+koi-7368 b
+koi-7449 b
+koi-7455
+koi-7460 b
+koi-771 b
+koi-7913 b
+koi-984 b
+kps-1 b
+kepler-10 b
+kepler-10 c
+kepler-100 b
+kepler-100 c
+kepler-100 d
+kepler-1000 b
+kepler-1001 b
+kepler-1001 c
+kepler-1002 b
+kepler-1003 b
+kepler-1004 b
+kepler-1005 b
+kepler-1006 b
+kepler-1007 b
+kepler-1008 b
+kepler-1009 b
+kepler-101 b
+kepler-101 c
+kepler-1010 b
+kepler-1011 b
+kepler-1012 b
+kepler-1013 b
+kepler-1014 b
+kepler-1015 b
+kepler-1016 b
+kepler-1016 c
+kepler-1017 b
+kepler-1018 b
+kepler-1019 b
+kepler-102 b
+kepler-102 c
+kepler-102 d
+kepler-102 e
+kepler-102 f
+kepler-1020 b
+kepler-1021 b
+kepler-1022 b
+kepler-1023 b
+kepler-1024 b
+kepler-1025 b
+kepler-1026 b
+kepler-1027 b
+kepler-1028 b
+kepler-1029 b
+kepler-103 b
+kepler-103 c
+kepler-1030 b
+kepler-1031 b
+kepler-1032 b
+kepler-1033 b
+kepler-1034 b
+kepler-1035 b
+kepler-1036 b
+kepler-1037 b
+kepler-1038 b
+kepler-1039 b
+kepler-104 b
+kepler-104 c
+kepler-104 d
+kepler-1040 b
+kepler-1041 b
+kepler-1042 b
+kepler-1043 b
+kepler-1044 b
+kepler-1045 b
+kepler-1046 b
+kepler-1047 b
+kepler-1047 c
+kepler-1048 b
+kepler-1049 b
+kepler-105 b
+kepler-105 c
+kepler-1050 b
+kepler-1050 c
+kepler-1051 b
+kepler-1052 b
+kepler-1053 b
+kepler-1054 b
+kepler-1055 b
+kepler-1056 b
+kepler-1057 b
+kepler-1058 b
+kepler-1059 b
+kepler-106 b
+kepler-106 c
+kepler-106 d
+kepler-106 e
+kepler-1060 b
+kepler-1061 b
+kepler-1062 b
+kepler-1063 b
+kepler-1064 b
+kepler-1065 b
+kepler-1065 c
+kepler-1066 b
+kepler-1067 b
+kepler-1068 b
+kepler-1069 b
+kepler-107 b
+kepler-107 c
+kepler-107 d
+kepler-107 e
+kepler-1070 b
+kepler-1071 b
+kepler-1072 b
+kepler-1073 b
+kepler-1073 c
+kepler-1074 b
+kepler-1075 b
+kepler-1076 b
+kepler-1077 b
+kepler-1078 b
+kepler-1079 b
+kepler-108 b
+kepler-108 c
+kepler-1080 b
+kepler-1081 b
+kepler-1082 b
+kepler-1083 b
+kepler-1084 b
+kepler-1085 b
+kepler-1085 c
+kepler-1086 b
+kepler-1086 c
+kepler-1087 b
+kepler-1088 b
+kepler-1089 b
+kepler-109 b
+kepler-109 c
+kepler-1090 b
+kepler-1091 b
+kepler-1092 b
+kepler-1093 b
+kepler-1093 c
+kepler-1094 b
+kepler-1095 b
+kepler-1096 b
+kepler-1097 b
+kepler-1098 b
+kepler-1099 b
+kepler-11 b
+kepler-11 c
+kepler-11 d
+kepler-11 e
+kepler-11 f
+kepler-11 g
+kepler-110 b
+kepler-110 c
+kepler-1100 b
+kepler-1101 b
+kepler-1102 b
+kepler-1103 b
+kepler-1104 b
+kepler-1105 b
+kepler-1106 b
+kepler-1107 b
+kepler-1108 b
+kepler-1109 b
+kepler-111 b
+kepler-111 c
+kepler-1110 b
+kepler-1111 b
+kepler-1112 b
+kepler-1113 b
+kepler-1114 b
+kepler-1115 b
+kepler-1116 b
+kepler-1117 b
+kepler-1118 b
+kepler-1119 b
+kepler-112 b
+kepler-112 c
+kepler-1120 b
+kepler-1121 b
+kepler-1122 b
+kepler-1123 b
+kepler-1124 b
+kepler-1125 b
+kepler-1126 b
+kepler-1127 b
+kepler-1128 b
+kepler-1129 b
+kepler-1129 c
+kepler-113 b
+kepler-113 c
+kepler-1130 b
+kepler-1131 b
+kepler-1132 b
+kepler-1133 b
+kepler-1134 b
+kepler-1135 b
+kepler-1136 b
+kepler-1137 b
+kepler-1138 b
+kepler-1139 b
+kepler-114 b
+kepler-114 c
+kepler-114 d
+kepler-1140 b
+kepler-1141 b
+kepler-1142 b
+kepler-1143 b
+kepler-1143 c
+kepler-1144 b
+kepler-1145 b
+kepler-1146 b
+kepler-1147 b
+kepler-1148 b
+kepler-1149 b
+kepler-115 b
+kepler-115 c
+kepler-1150 b
+kepler-1151 b
+kepler-1152 b
+kepler-1153 b
+kepler-1154 b
+kepler-1154 c
+kepler-1155 b
+kepler-1156 b
+kepler-1157 b
+kepler-1158 b
+kepler-1159 b
+kepler-116 b
+kepler-116 c
+kepler-1160 b
+kepler-1161 b
+kepler-1162 b
+kepler-1163 b
+kepler-1164 b
+kepler-1165 b
+kepler-1166 b
+kepler-1167 b
+kepler-1168 b
+kepler-1169 b
+kepler-117 b
+kepler-117 c
+kepler-1170 b
+kepler-1171 b
+kepler-1172 b
+kepler-1173 b
+kepler-1174 b
+kepler-1175 b
+kepler-1176 b
+kepler-1177 b
+kepler-1178 b
+kepler-1179 b
+kepler-118 b
+kepler-118 c
+kepler-1180 b
+kepler-1181 b
+kepler-1182 b
+kepler-1183 b
+kepler-1184 b
+kepler-1185 b
+kepler-1186 b
+kepler-1187 b
+kepler-1188 b
+kepler-1189 b
+kepler-119 b
+kepler-119 c
+kepler-1190 b
+kepler-1191 b
+kepler-1192 b
+kepler-1193 b
+kepler-1194 b
+kepler-1195 b
+kepler-1196 b
+kepler-1197 b
+kepler-1198 b
+kepler-1199 b
+kepler-12 b
+kepler-120 b
+kepler-120 c
+kepler-1200 b
+kepler-1201 b
+kepler-1202 b
+kepler-1203 b
+kepler-1204 b
+kepler-1205 b
+kepler-1206 b
+kepler-1207 b
+kepler-1208 b
+kepler-1209 b
+kepler-121 b
+kepler-121 c
+kepler-1210 b
+kepler-1211 b
+kepler-1212 b
+kepler-1213 b
+kepler-1214 b
+kepler-1215 b
+kepler-1216 b
+kepler-1217 b
+kepler-1218 b
+kepler-1219 b
+kepler-122 b
+kepler-122 c
+kepler-122 d
+kepler-122 e
+kepler-122 f
+kepler-1220 b
+kepler-1221 b
+kepler-1222 b
+kepler-1223 b
+kepler-1224 b
+kepler-1225 b
+kepler-1226 b
+kepler-1227 b
+kepler-1228 b
+kepler-1229 b
+kepler-123 b
+kepler-123 c
+kepler-1230 b
+kepler-1231 b
+kepler-1232 b
+kepler-1233 b
+kepler-1234 b
+kepler-1235 b
+kepler-1236 b
+kepler-1237 b
+kepler-1238 b
+kepler-1239 b
+kepler-124 b
+kepler-124 c
+kepler-124 d
+kepler-1240 b
+kepler-1241 b
+kepler-1242 b
+kepler-1243 b
+kepler-1244 b
+kepler-1245 b
+kepler-1245 c
+kepler-1246 b
+kepler-1247 b
+kepler-1248 b
+kepler-1249 b
+kepler-125 b
+kepler-125 c
+kepler-1250 b
+kepler-1251 b
+kepler-1252 b
+kepler-1253 b
+kepler-1254 b
+kepler-1254 c
+kepler-1254 d
+kepler-1255 b
+kepler-1256 b
+kepler-1257 b
+kepler-1258 b
+kepler-1259 b
+kepler-126 b
+kepler-126 c
+kepler-126 d
+kepler-1260 b
+kepler-1261 b
+kepler-1262 b
+kepler-1263 b
+kepler-1264 b
+kepler-1265 b
+kepler-1266 b
+kepler-1267 b
+kepler-1268 b
+kepler-1269 b
+kepler-127 b
+kepler-127 c
+kepler-127 d
+kepler-1270 b
+kepler-1271 b
+kepler-1272 b
+kepler-1273 b
+kepler-1274 b
+kepler-1275 b
+kepler-1276 b
+kepler-1277 b
+kepler-1278 b
+kepler-1279 b
+kepler-128 b
+kepler-128 c
+kepler-1280 b
+kepler-1281 b
+kepler-1282 b
+kepler-1283 b
+kepler-1284 b
+kepler-1285 b
+kepler-1286 b
+kepler-1287 b
+kepler-1288 b
+kepler-1289 b
+kepler-129 b
+kepler-129 c
+kepler-1290 b
+kepler-1291 b
+kepler-1292 b
+kepler-1293 b
+kepler-1294 b
+kepler-1295 b
+kepler-1296 b
+kepler-1297 b
+kepler-1298 b
+kepler-1299 b
+kepler-130 b
+kepler-130 c
+kepler-130 d
+kepler-1300 b
+kepler-1301 b
+kepler-1302 b
+kepler-1303 b
+kepler-1304 b
+kepler-1305 b
+kepler-1306 b
+kepler-1307 b
+kepler-1308 b
+kepler-1309 b
+kepler-131 b
+kepler-131 c
+kepler-1310 b
+kepler-1311 b
+kepler-1311 c
+kepler-1312 b
+kepler-1313 b
+kepler-1314 b
+kepler-1315 b
+kepler-1316 b
+kepler-1317 b
+kepler-1318 b
+kepler-1319 b
+kepler-132 b
+kepler-132 c
+kepler-132 d
+kepler-132 e
+kepler-1320 b
+kepler-1321 b
+kepler-1321 c
+kepler-1322 b
+kepler-1323 b
+kepler-1324 b
+kepler-1325 b
+kepler-1326 b
+kepler-1327 b
+kepler-1328 b
+kepler-1329 b
+kepler-133 b
+kepler-133 c
+kepler-1330 b
+kepler-1331 b
+kepler-1332 b
+kepler-1333 b
+kepler-1334 b
+kepler-1335 b
+kepler-1336 b
+kepler-1336 c
+kepler-1337 b
+kepler-1338 b
+kepler-1339 b
+kepler-134 b
+kepler-134 c
+kepler-1340 b
+kepler-1341 b
+kepler-1342 b
+kepler-1343 b
+kepler-1344 b
+kepler-1345 b
+kepler-1346 b
+kepler-1347 b
+kepler-1348 b
+kepler-1349 b
+kepler-135 b
+kepler-135 c
+kepler-1350 b
+kepler-1350 c
+kepler-1351 b
+kepler-1352 b
+kepler-1353 b
+kepler-1354 b
+kepler-1355 b
+kepler-1356 b
+kepler-1357 b
+kepler-1358 b
+kepler-1359 b
+kepler-136 b
+kepler-136 c
+kepler-1360 b
+kepler-1361 b
+kepler-1362 b
+kepler-1363 b
+kepler-1364 b
+kepler-1365 b
+kepler-1365 c
+kepler-1366 b
+kepler-1367 b
+kepler-1368 b
+kepler-1369 b
+kepler-137 b
+kepler-137 c
+kepler-1370 b
+kepler-1370 c
+kepler-1371 b
+kepler-1371 c
+kepler-1372 b
+kepler-1373 b
+kepler-1374 b
+kepler-1375 b
+kepler-1376 b
+kepler-1377 b
+kepler-1378 b
+kepler-1379 b
+kepler-138 b
+kepler-138 c
+kepler-138 d
+kepler-1380 b
+kepler-1381 b
+kepler-1382 b
+kepler-1383 b
+kepler-1384 b
+kepler-1385 b
+kepler-1386 b
+kepler-1387 b
+kepler-1388 b
+kepler-1388 c
+kepler-1388 d
+kepler-1388 e
+kepler-1389 b
+kepler-139 b
+kepler-139 c
+kepler-1390 b
+kepler-1391 b
+kepler-1392 b
+kepler-1393 b
+kepler-1394 b
+kepler-1395 b
+kepler-1396 b
+kepler-1397 b
+kepler-1398 b
+kepler-1398 c
+kepler-1399 b
+kepler-14 b
+kepler-140 b
+kepler-140 c
+kepler-1400 b
+kepler-1401 b
+kepler-1402 b
+kepler-1403 b
+kepler-1404 b
+kepler-1405 b
+kepler-1406 b
+kepler-1407 b
+kepler-1408 b
+kepler-1409 b
+kepler-141 b
+kepler-141 c
+kepler-1410 b
+kepler-1411 b
+kepler-1412 b
+kepler-1413 b
+kepler-1414 b
+kepler-1415 b
+kepler-1416 b
+kepler-1417 b
+kepler-1418 b
+kepler-1419 b
+kepler-142 b
+kepler-142 c
+kepler-142 d
+kepler-1420 b
+kepler-1421 b
+kepler-1422 b
+kepler-1423 b
+kepler-1424 b
+kepler-1425 b
+kepler-1426 b
+kepler-1427 b
+kepler-1428 b
+kepler-1429 b
+kepler-143 b
+kepler-143 c
+kepler-1430 b
+kepler-1431 b
+kepler-1432 b
+kepler-1433 b
+kepler-1434 b
+kepler-1435 b
+kepler-1436 b
+kepler-1437 b
+kepler-1438 b
+kepler-1439 b
+kepler-144 b
+kepler-144 c
+kepler-1440 b
+kepler-1441 b
+kepler-1442 b
+kepler-1443 b
+kepler-1444 b
+kepler-1445 b
+kepler-1446 b
+kepler-1447 b
+kepler-1448 b
+kepler-1449 b
+kepler-145 b
+kepler-145 c
+kepler-1450 b
+kepler-1451 b
+kepler-1452 b
+kepler-1453 b
+kepler-1454 b
+kepler-1455 b
+kepler-1456 b
+kepler-1457 b
+kepler-1458 b
+kepler-1459 b
+kepler-146 b
+kepler-146 c
+kepler-1460 b
+kepler-1461 b
+kepler-1462 b
+kepler-1463 b
+kepler-1464 b
+kepler-1464 c
+kepler-1465 b
+kepler-1466 b
+kepler-1467 b
+kepler-1468 b
+kepler-1468 c
+kepler-1469 b
+kepler-147 b
+kepler-147 c
+kepler-1470 b
+kepler-1471 b
+kepler-1472 b
+kepler-1473 b
+kepler-1474 b
+kepler-1475 b
+kepler-1476 b
+kepler-1477 b
+kepler-1478 b
+kepler-1479 b
+kepler-148 b
+kepler-148 c
+kepler-148 d
+kepler-1480 b
+kepler-1481 b
+kepler-1482 b
+kepler-1483 b
+kepler-1484 b
+kepler-1485 b
+kepler-1486 b
+kepler-1487 b
+kepler-1488 b
+kepler-1489 b
+kepler-149 b
+kepler-149 c
+kepler-149 d
+kepler-1490 b
+kepler-1491 b
+kepler-1492 b
+kepler-1493 b
+kepler-1494 b
+kepler-1495 b
+kepler-1496 b
+kepler-1497 b
+kepler-1498 b
+kepler-1499 b
+kepler-15 b
+kepler-150 b
+kepler-150 c
+kepler-150 d
+kepler-150 e
+kepler-150 f
+kepler-1500 b
+kepler-1501 b
+kepler-1502 b
+kepler-1503 b
+kepler-1504 b
+kepler-1505 b
+kepler-1506 b
+kepler-1507 b
+kepler-1508 b
+kepler-1509 b
+kepler-151 b
+kepler-151 c
+kepler-1510 b
+kepler-1511 b
+kepler-1512 b
+kepler-1513 b
+kepler-1514 b
+kepler-1514 c
+kepler-1515 b
+kepler-1516 b
+kepler-1517 b
+kepler-1518 b
+kepler-1519 b
+kepler-152 b
+kepler-152 c
+kepler-1520 b
+kepler-1521 b
+kepler-1522 b
+kepler-1523 b
+kepler-1524 b
+kepler-1525 b
+kepler-1526 b
+kepler-1527 b
+kepler-1528 b
+kepler-1529 b
+kepler-153 b
+kepler-153 c
+kepler-1530 b
+kepler-1530 c
+kepler-1531 b
+kepler-1532 b
+kepler-1533 b
+kepler-1534 b
+kepler-1535 b
+kepler-1536 b
+kepler-1537 b
+kepler-1538 b
+kepler-1539 b
+kepler-154 b
+kepler-154 c
+kepler-154 d
+kepler-154 e
+kepler-154 f
+kepler-154 g
+kepler-1540 b
+kepler-1541 b
+kepler-1542 b
+kepler-1542 c
+kepler-1542 d
+kepler-1542 e
+kepler-1543 b
+kepler-1544 b
+kepler-1545 b
+kepler-1546 b
+kepler-1547 b
+kepler-1548 b
+kepler-1549 b
+kepler-155 b
+kepler-155 c
+kepler-1550 b
+kepler-1551 b
+kepler-1552 b
+kepler-1553 b
+kepler-1554 b
+kepler-1555 b
+kepler-1556 b
+kepler-1557 b
+kepler-1558 b
+kepler-1559 b
+kepler-156 b
+kepler-156 c
+kepler-1560 b
+kepler-1561 b
+kepler-1562 b
+kepler-1563 b
+kepler-1564 b
+kepler-1565 b
+kepler-1566 b
+kepler-1567 b
+kepler-1568 b
+kepler-1569 b
+kepler-157 b
+kepler-157 c
+kepler-157 d
+kepler-1570 b
+kepler-1571 b
+kepler-1572 b
+kepler-1573 b
+kepler-1574 b
+kepler-1575 b
+kepler-1576 b
+kepler-1577 b
+kepler-1578 b
+kepler-1579 b
+kepler-158 b
+kepler-158 c
+kepler-1580 b
+kepler-1581 b
+kepler-1582 b
+kepler-1583 b
+kepler-1584 b
+kepler-1585 b
+kepler-1586 b
+kepler-1587 b
+kepler-1588 b
+kepler-1589 b
+kepler-159 b
+kepler-159 c
+kepler-1590 b
+kepler-1591 b
+kepler-1592 b
+kepler-1593 b
+kepler-1594 b
+kepler-1595 b
+kepler-1596 b
+kepler-1597 b
+kepler-1598 b
+kepler-1599 b
+kepler-16 (ab) b
+kepler-160 b
+kepler-160 c
+kepler-160 d
+kepler-1600 b
+kepler-1601 b
+kepler-1602 b
+kepler-1603 b
+kepler-1604 b
+kepler-1605 b
+kepler-1606 b
+kepler-1607 b
+kepler-1608 b
+kepler-1609 b
+kepler-161 b
+kepler-161 c
+kepler-1610 b
+kepler-1611 b
+kepler-1612 b
+kepler-1613 b
+kepler-1614 b
+kepler-1615 b
+kepler-1616 b
+kepler-1617 b
+kepler-1618 b
+kepler-1619 b
+kepler-162 b
+kepler-162 c
+kepler-1620 b
+kepler-1621 b
+kepler-1622 b
+kepler-1623 b
+kepler-1624 b
+kepler-1625 b
+kepler-1626 b
+kepler-1627 b
+kepler-1628 b
+kepler-1629 b
+kepler-163 b
+kepler-163 c
+kepler-1630 b
+kepler-1631 b
+kepler-1632 b
+kepler-1633 b
+kepler-1634 b
+kepler-1635 b
+kepler-1636 b
+kepler-1637 b
+kepler-1638 b
+kepler-1639 b
+kepler-164 b
+kepler-164 c
+kepler-164 d
+kepler-1640 b
+kepler-1641 b
+kepler-1641 c
+kepler-1642 b
+kepler-1642 c
+kepler-1643 b
+kepler-1644 b
+kepler-1645 b
+kepler-1646 b
+kepler-1647 (ab) b
+kepler-1649 b
+kepler-1649 c
+kepler-165 b
+kepler-165 c
+kepler-1650 b
+kepler-1651 b
+kepler-1652 b
+kepler-1653 b
+kepler-1654 b
+kepler-1655 b
+kepler-1656 b
+kepler-1656 c
+kepler-1658 b
+kepler-166 b
+kepler-166 c
+kepler-166 d
+kepler-1661 (ab) b
+kepler-1663 b
+kepler-1664 b
+kepler-1665 b
+kepler-1666 b
+kepler-1666 c
+kepler-1667 b
+kepler-1668 b
+kepler-1669 b
+kepler-167 b
+kepler-167 c
+kepler-167 d
+kepler-167 e
+kepler-1670 b
+kepler-1671 b
+kepler-1672 b
+kepler-1673 b
+kepler-1674 b
+kepler-1675 b
+kepler-1676 b
+kepler-1677 b
+kepler-1678 b
+kepler-1679 b
+kepler-168 b
+kepler-168 c
+kepler-1680 b
+kepler-1681 b
+kepler-1682 b
+kepler-1683 b
+kepler-1684 b
+kepler-1685 b
+kepler-1686 b
+kepler-1687 b
+kepler-1688 b
+kepler-1689 b
+kepler-169 b
+kepler-169 c
+kepler-169 d
+kepler-169 e
+kepler-169 f
+kepler-1690 b
+kepler-1691 b
+kepler-1692 b
+kepler-1693 b
+kepler-1694 b
+kepler-1695 b
+kepler-1696 b
+kepler-1697 b
+kepler-1698 b
+kepler-1699 b
+kepler-17 b
+kepler-170 b
+kepler-170 c
+kepler-1700 b
+kepler-1701 b
+kepler-1702 b
+kepler-1705 b
+kepler-1705 c
+kepler-1708 b
+kepler-1708 b-i
+kepler-171 b
+kepler-171 c
+kepler-171 d
+kepler-172 b
+kepler-172 c
+kepler-172 d
+kepler-172 e
+kepler-173 b
+kepler-173 c
+kepler-174 b
+kepler-174 c
+kepler-174 d
+kepler-175 b
+kepler-175 c
+kepler-176 b
+kepler-176 c
+kepler-176 d
+kepler-176 e
+kepler-177 b
+kepler-177 c
+kepler-178 b
+kepler-178 c
+kepler-178 d
+kepler-179 b
+kepler-179 c
+kepler-18 b
+kepler-18 c
+kepler-18 d
+kepler-180 b
+kepler-180 c
+kepler-181 b
+kepler-181 c
+kepler-182 b
+kepler-182 c
+kepler-183 b
+kepler-183 c
+kepler-184 b
+kepler-184 c
+kepler-184 d
+kepler-185 b
+kepler-185 c
+kepler-186 b
+kepler-186 c
+kepler-186 d
+kepler-186 e
+kepler-186 f
+kepler-187 b
+kepler-187 c
+kepler-188 b
+kepler-188 c
+kepler-189 b
+kepler-189 c
+kepler-19 b
+kepler-19 c
+kepler-19 d
+kepler-190 b
+kepler-190 c
+kepler-191 b
+kepler-191 c
+kepler-191 d
+kepler-192 b
+kepler-192 c
+kepler-192 d
+kepler-193 b
+kepler-193 c
+kepler-194 b
+kepler-194 c
+kepler-194 d
+kepler-195 b
+kepler-195 c
+kepler-196 b
+kepler-196 c
+kepler-1962 b
+kepler-197 b
+kepler-197 c
+kepler-197 d
+kepler-197 e
+kepler-1970 b
+kepler-198 b
+kepler-198 c
+kepler-198 d
+kepler-199 b
+kepler-199 c
+kepler-20 b
+kepler-20 c
+kepler-20 d
+kepler-20 e
+kepler-20 f
+kepler-20 g
+kepler-200 b
+kepler-200 c
+kepler-201 b
+kepler-201 c
+kepler-202 b
+kepler-202 c
+kepler-203 b
+kepler-203 c
+kepler-203 d
+kepler-204 b
+kepler-204 c
+kepler-205 b
+kepler-205 c
+kepler-206 b
+kepler-206 c
+kepler-206 d
+kepler-207 b
+kepler-207 c
+kepler-207 d
+kepler-208 b
+kepler-208 c
+kepler-208 d
+kepler-208 e
+kepler-209 b
+kepler-209 c
+kepler-21 b
+kepler-210 b
+kepler-210 c
+kepler-211 b
+kepler-211 c
+kepler-212 b
+kepler-212 c
+kepler-213 b
+kepler-213 c
+kepler-214 b
+kepler-214 c
+kepler-215 b
+kepler-215 c
+kepler-215 d
+kepler-215 e
+kepler-216 b
+kepler-216 c
+kepler-217 b
+kepler-217 c
+kepler-217 d
+kepler-218 b
+kepler-218 c
+kepler-218 d
+kepler-219 b
+kepler-219 c
+kepler-219 d
+kepler-22 b
+kepler-220 b
+kepler-220 c
+kepler-220 d
+kepler-220 e
+kepler-221 b
+kepler-221 c
+kepler-221 d
+kepler-221 e
+kepler-222 b
+kepler-222 c
+kepler-222 d
+kepler-223 b
+kepler-223 c
+kepler-223 d
+kepler-223 e
+kepler-224 b
+kepler-224 c
+kepler-224 d
+kepler-224 e
+kepler-225 b
+kepler-225 c
+kepler-226 b
+kepler-226 c
+kepler-226 d
+kepler-227 b
+kepler-227 c
+kepler-228 b
+kepler-228 c
+kepler-228 d
+kepler-229 b
+kepler-229 c
+kepler-229 d
+kepler-23 b
+kepler-23 c
+kepler-23 d
+kepler-230 b
+kepler-230 c
+kepler-231 b
+kepler-231 c
+kepler-232 b
+kepler-232 c
+kepler-233 b
+kepler-233 c
+kepler-234 b
+kepler-234 c
+kepler-235 b
+kepler-235 c
+kepler-235 d
+kepler-235 e
+kepler-236 b
+kepler-236 c
+kepler-237 b
+kepler-237 c
+kepler-238 b
+kepler-238 c
+kepler-238 d
+kepler-238 e
+kepler-238 f
+kepler-239 b
+kepler-239 c
+kepler-24 b
+kepler-24 c
+kepler-24 d
+kepler-24 e
+kepler-240 b
+kepler-240 c
+kepler-241 b
+kepler-241 c
+kepler-242 b
+kepler-242 c
+kepler-243 b
+kepler-243 c
+kepler-244 b
+kepler-244 c
+kepler-244 d
+kepler-245 b
+kepler-245 c
+kepler-245 d
+kepler-245 e
+kepler-246 b
+kepler-246 c
+kepler-247 b
+kepler-247 c
+kepler-247 d
+kepler-248 b
+kepler-248 c
+kepler-249 b
+kepler-249 c
+kepler-249 d
+kepler-25 b
+kepler-25 c
+kepler-25 d
+kepler-250 b
+kepler-250 c
+kepler-250 d
+kepler-251 b
+kepler-251 c
+kepler-251 d
+kepler-251 e
+kepler-252 b
+kepler-252 c
+kepler-253 b
+kepler-253 c
+kepler-253 d
+kepler-254 b
+kepler-254 c
+kepler-254 d
+kepler-255 b
+kepler-255 c
+kepler-255 d
+kepler-256 b
+kepler-256 c
+kepler-256 d
+kepler-256 e
+kepler-257 b
+kepler-257 c
+kepler-257 d
+kepler-258 b
+kepler-258 c
+kepler-259 b
+kepler-259 c
+kepler-26 b
+kepler-26 c
+kepler-26 d
+kepler-26 e
+kepler-260 b
+kepler-260 c
+kepler-261 b
+kepler-261 c
+kepler-262 b
+kepler-262 c
+kepler-263 b
+kepler-263 c
+kepler-264 b
+kepler-264 c
+kepler-265 b
+kepler-265 c
+kepler-265 d
+kepler-265 e
+kepler-266 b
+kepler-266 c
+kepler-267 b
+kepler-267 c
+kepler-267 d
+kepler-268 b
+kepler-268 c
+kepler-269 b
+kepler-269 c
+kepler-27 b
+kepler-27 c
+kepler-270 b
+kepler-270 c
+kepler-271 b
+kepler-271 c
+kepler-271 d
+kepler-272 b
+kepler-272 c
+kepler-272 d
+kepler-273 b
+kepler-273 c
+kepler-274 b
+kepler-274 c
+kepler-275 b
+kepler-275 c
+kepler-275 d
+kepler-276 b
+kepler-276 c
+kepler-276 d
+kepler-277 b
+kepler-277 c
+kepler-278 b
+kepler-278 c
+kepler-279 b
+kepler-279 c
+kepler-279 d
+kepler-28 b
+kepler-28 c
+kepler-280 b
+kepler-280 c
+kepler-281 b
+kepler-281 c
+kepler-282 b
+kepler-282 c
+kepler-282 d
+kepler-282 e
+kepler-283 b
+kepler-283 c
+kepler-284 b
+kepler-284 c
+kepler-285 b
+kepler-285 c
+kepler-286 b
+kepler-286 c
+kepler-286 d
+kepler-286 e
+kepler-287 b
+kepler-287 c
+kepler-288 b
+kepler-288 c
+kepler-288 d
+kepler-289 b
+kepler-289 c
+kepler-289 d
+kepler-29 b
+kepler-29 c
+kepler-290 b
+kepler-290 c
+kepler-291 b
+kepler-291 c
+kepler-292 b
+kepler-292 c
+kepler-292 d
+kepler-292 e
+kepler-292 f
+kepler-293 b
+kepler-293 c
+kepler-294 b
+kepler-294 c
+kepler-295 b
+kepler-295 c
+kepler-295 d
+kepler-296 b
+kepler-296 c
+kepler-296 d
+kepler-296 e
+kepler-296 f
+kepler-297 b
+kepler-297 c
+kepler-298 b
+kepler-298 c
+kepler-298 d
+kepler-299 b
+kepler-299 c
+kepler-299 d
+kepler-299 e
+kepler-30 b
+kepler-30 c
+kepler-30 d
+kepler-300 b
+kepler-300 c
+kepler-301 b
+kepler-301 c
+kepler-301 d
+kepler-302 b
+kepler-302 c
+kepler-303 b
+kepler-303 c
+kepler-304 b
+kepler-304 c
+kepler-304 d
+kepler-304 e
+kepler-305 b
+kepler-305 c
+kepler-305 d
+kepler-305 e
+kepler-306 b
+kepler-306 c
+kepler-306 d
+kepler-306 e
+kepler-307 b
+kepler-307 c
+kepler-308 b
+kepler-308 c
+kepler-309 b
+kepler-309 c
+kepler-31 b
+kepler-31 c
+kepler-31 d
+kepler-310 b
+kepler-310 c
+kepler-310 d
+kepler-311 b
+kepler-311 c
+kepler-312 b
+kepler-312 c
+kepler-313 b
+kepler-313 c
+kepler-314 b
+kepler-314 c
+kepler-315 b
+kepler-315 c
+kepler-316 b
+kepler-316 c
+kepler-317 b
+kepler-317 c
+kepler-318 b
+kepler-318 c
+kepler-319 b
+kepler-319 c
+kepler-319 d
+kepler-32 b
+kepler-32 c
+kepler-32 d
+kepler-32 e
+kepler-32 f
+kepler-320 b
+kepler-320 c
+kepler-321 b
+kepler-321 c
+kepler-322 b
+kepler-322 c
+kepler-323 b
+kepler-323 c
+kepler-324 b
+kepler-324 c
+kepler-325 b
+kepler-325 c
+kepler-325 d
+kepler-326 b
+kepler-326 c
+kepler-326 d
+kepler-327 b
+kepler-327 c
+kepler-327 d
+kepler-328 b
+kepler-328 c
+kepler-329 b
+kepler-329 c
+kepler-33 b
+kepler-33 c
+kepler-33 d
+kepler-33 e
+kepler-33 f
+kepler-330 b
+kepler-330 c
+kepler-331 b
+kepler-331 c
+kepler-331 d
+kepler-332 b
+kepler-332 c
+kepler-332 d
+kepler-333 b
+kepler-333 c
+kepler-334 b
+kepler-334 c
+kepler-334 d
+kepler-335 b
+kepler-335 c
+kepler-336 b
+kepler-336 c
+kepler-336 d
+kepler-337 b
+kepler-337 c
+kepler-338 b
+kepler-338 c
+kepler-338 d
+kepler-338 e
+kepler-339 b
+kepler-339 c
+kepler-339 d
+kepler-34 (ab) b
+kepler-340 b
+kepler-340 c
+kepler-341 b
+kepler-341 c
+kepler-341 d
+kepler-341 e
+kepler-342 b
+kepler-342 c
+kepler-342 d
+kepler-342 e
+kepler-343 b
+kepler-343 c
+kepler-344 b
+kepler-344 c
+kepler-345 b
+kepler-345 c
+kepler-346 b
+kepler-346 c
+kepler-347 b
+kepler-347 c
+kepler-348 b
+kepler-348 c
+kepler-349 b
+kepler-349 c
+kepler-35 (ab) b
+kepler-350 b
+kepler-350 c
+kepler-350 d
+kepler-351 b
+kepler-351 c
+kepler-351 d
+kepler-352 b
+kepler-352 c
+kepler-353 b
+kepler-353 c
+kepler-354 b
+kepler-354 c
+kepler-354 d
+kepler-355 b
+kepler-355 c
+kepler-356 b
+kepler-356 c
+kepler-357 b
+kepler-357 c
+kepler-357 d
+kepler-358 b
+kepler-358 c
+kepler-359 b
+kepler-359 c
+kepler-359 d
+kepler-36 b
+kepler-36 c
+kepler-360 b
+kepler-360 c
+kepler-361 b
+kepler-361 c
+kepler-362 b
+kepler-362 c
+kepler-363 b
+kepler-363 c
+kepler-363 d
+kepler-364 b
+kepler-364 c
+kepler-365 b
+kepler-365 c
+kepler-366 b
+kepler-366 c
+kepler-367 b
+kepler-367 c
+kepler-368 b
+kepler-368 c
+kepler-369 b
+kepler-369 c
+kepler-37 b
+kepler-37 c
+kepler-37 d
+kepler-37 e
+kepler-370 b
+kepler-370 c
+kepler-371 b
+kepler-371 c
+kepler-372 b
+kepler-372 c
+kepler-372 d
+kepler-373 b
+kepler-373 c
+kepler-374 b
+kepler-374 c
+kepler-374 d
+kepler-375 b
+kepler-375 c
+kepler-376 b
+kepler-376 c
+kepler-377 b
+kepler-377 c
+kepler-378 b
+kepler-378 c
+kepler-379 b
+kepler-379 c
+kepler-38 (ab) b
+kepler-380 b
+kepler-380 c
+kepler-381 b
+kepler-381 c
+kepler-382 b
+kepler-382 c
+kepler-383 b
+kepler-383 c
+kepler-384 b
+kepler-384 c
+kepler-385 b
+kepler-385 c
+kepler-385 d
+kepler-386 b
+kepler-386 c
+kepler-387 b
+kepler-387 c
+kepler-388 b
+kepler-388 c
+kepler-389 b
+kepler-389 c
+kepler-39 b
+kepler-390 b
+kepler-390 c
+kepler-391 b
+kepler-391 c
+kepler-392 b
+kepler-392 c
+kepler-393 b
+kepler-393 c
+kepler-394 b
+kepler-394 c
+kepler-395 b
+kepler-395 c
+kepler-396 b
+kepler-396 c
+kepler-397 b
+kepler-397 c
+kepler-398 b
+kepler-398 c
+kepler-398 d
+kepler-399 b
+kepler-399 c
+kepler-399 d
+kepler-4 b
+kepler-40 b
+kepler-400 b
+kepler-400 c
+kepler-401 b
+kepler-401 c
+kepler-401 d
+kepler-402 b
+kepler-402 c
+kepler-402 d
+kepler-402 e
+kepler-403 b
+kepler-403 c
+kepler-403 d
+kepler-404 b
+kepler-404 c
+kepler-405 b
+kepler-405 c
+kepler-406 b
+kepler-406 c
+kepler-407 b
+kepler-407 c
+kepler-408 b
+kepler-409 b
+kepler-41 b
+kepler-410 a b
+kepler-411 b
+kepler-411 c
+kepler-411 d
+kepler-411 e
+kepler-412 b
+kepler-413 (ab) b
+kepler-414 b
+kepler-414 c
+kepler-415 b
+kepler-415 c
+kepler-416 b
+kepler-416 c
+kepler-417 b
+kepler-417 c
+kepler-418 b
+kepler-419 b
+kepler-419 c
+kepler-42 b
+kepler-42 c
+kepler-42 d
+kepler-421 b
+kepler-422 b
+kepler-423 b
+kepler-424 b
+kepler-424 c
+kepler-425 b
+kepler-426 b
+kepler-427 b
+kepler-428 b
+kepler-43 b
+kepler-430 b
+kepler-430 c
+kepler-431 b
+kepler-431 c
+kepler-431 d
+kepler-432 b
+kepler-432 c
+kepler-433 b
+kepler-434 b
+kepler-435 b
+kepler-436 b
+kepler-436 c
+kepler-437 b
+kepler-438 b
+kepler-439 b
+kepler-44 b
+kepler-440 b
+kepler-441 b
+kepler-442 b
+kepler-443 b
+kepler-444 b
+kepler-444 c
+kepler-444 d
+kepler-444 e
+kepler-444 f
+kepler-445 b
+kepler-445 c
+kepler-445 d
+kepler-446 b
+kepler-446 c
+kepler-446 d
+kepler-447 b
+kepler-448 c
+kepler-449 b
+kepler-449 c
+kepler-45 b
+kepler-450 b
+kepler-450 c
+kepler-450 d
+kepler-451 b
+kepler-451 c
+kepler-451 d
+kepler-452 b
+kepler-453 (ab) b
+kepler-454 b
+kepler-454 c
+kepler-455 b
+kepler-456 b
+kepler-457 b
+kepler-457 c
+kepler-458 b
+kepler-458 c
+kepler-459 b
+kepler-46 b
+kepler-46 c
+kepler-46 d
+kepler-460 b
+kepler-460 c
+kepler-461 b
+kepler-462 b
+kepler-462 c
+kepler-463 b
+kepler-464 b
+kepler-465 b
+kepler-466 b
+kepler-466 c
+kepler-467 b
+kepler-468 b
+kepler-47 (ab) b
+kepler-47 (ab) c
+kepler-47 (ab) d
+kepler-470 b
+kepler-471 b
+kepler-472 b
+kepler-473 b
+kepler-474 b
+kepler-475 b
+kepler-476 b
+kepler-477 b
+kepler-478 b
+kepler-479 b
+kepler-48 b
+kepler-48 c
+kepler-48 d
+kepler-48 e
+kepler-480 b
+kepler-481 b
+kepler-482 b
+kepler-483 b
+kepler-484 b
+kepler-485 b
+kepler-486 b
+kepler-487 b
+kepler-487 c
+kepler-488 b
+kepler-489 b
+kepler-49 b
+kepler-49 c
+kepler-49 d
+kepler-49 e
+kepler-490 b
+kepler-491 b
+kepler-492 b
+kepler-493 b
+kepler-494 b
+kepler-495 b
+kepler-496 b
+kepler-497 b
+kepler-498 b
+kepler-499 b
+kepler-5 b
+kepler-50 b
+kepler-50 c
+kepler-500 b
+kepler-501 b
+kepler-502 b
+kepler-504 b
+kepler-505 b
+kepler-506 b
+kepler-507 b
+kepler-508 b
+kepler-509 b
+kepler-51 b
+kepler-51 c
+kepler-51 d
+kepler-510 b
+kepler-511 b
+kepler-512 b
+kepler-513 b
+kepler-514 b
+kepler-515 b
+kepler-516 b
+kepler-517 b
+kepler-518 b
+kepler-519 b
+kepler-52 b
+kepler-52 c
+kepler-52 d
+kepler-520 b
+kepler-520 c
+kepler-521 b
+kepler-522 b
+kepler-523 b
+kepler-524 b
+kepler-524 c
+kepler-525 b
+kepler-526 b
+kepler-527 b
+kepler-528 b
+kepler-529 b
+kepler-529 c
+kepler-53 b
+kepler-53 c
+kepler-53 d
+kepler-530 b
+kepler-531 b
+kepler-532 b
+kepler-533 b
+kepler-534 b
+kepler-535 b
+kepler-536 b
+kepler-537 b
+kepler-538 b
+kepler-539 b
+kepler-539 c
+kepler-54 b
+kepler-54 c
+kepler-54 d
+kepler-540 b
+kepler-541 b
+kepler-542 b
+kepler-543 b
+kepler-544 b
+kepler-545 b
+kepler-546 b
+kepler-547 b
+kepler-548 b
+kepler-549 b
+kepler-549 c
+kepler-55 b
+kepler-55 c
+kepler-55 d
+kepler-55 e
+kepler-55 f
+kepler-550 b
+kepler-551 b
+kepler-552 b
+kepler-553 b
+kepler-553 c
+kepler-554 b
+kepler-555 b
+kepler-556 b
+kepler-557 b
+kepler-558 b
+kepler-559 b
+kepler-56 b
+kepler-56 c
+kepler-56 d
+kepler-560 b
+kepler-561 b
+kepler-561 c
+kepler-562 b
+kepler-563 b
+kepler-564 b
+kepler-565 b
+kepler-566 b
+kepler-567 b
+kepler-568 b
+kepler-569 b
+kepler-57 b
+kepler-57 c
+kepler-570 b
+kepler-571 b
+kepler-572 b
+kepler-573 b
+kepler-574 b
+kepler-575 b
+kepler-576 b
+kepler-577 b
+kepler-578 b
+kepler-579 b
+kepler-58 b
+kepler-58 c
+kepler-58 d
+kepler-580 b
+kepler-581 b
+kepler-582 b
+kepler-583 b
+kepler-584 b
+kepler-585 b
+kepler-586 b
+kepler-587 b
+kepler-588 b
+kepler-589 b
+kepler-59 b
+kepler-59 c
+kepler-590 b
+kepler-591 b
+kepler-592 b
+kepler-593 b
+kepler-594 b
+kepler-595 b
+kepler-595 c
+kepler-596 b
+kepler-597 b
+kepler-598 b
+kepler-598 c
+kepler-599 b
+kepler-6 b
+kepler-60 b
+kepler-60 c
+kepler-60 d
+kepler-600 b
+kepler-601 b
+kepler-602 b
+kepler-603 b
+kepler-603 c
+kepler-603 d
+kepler-604 b
+kepler-605 b
+kepler-605 c
+kepler-606 b
+kepler-607 b
+kepler-608 b
+kepler-609 b
+kepler-61 b
+kepler-610 b
+kepler-610 c
+kepler-611 b
+kepler-612 b
+kepler-613 b
+kepler-614 b
+kepler-615 b
+kepler-616 b
+kepler-616 c
+kepler-617 b
+kepler-618 b
+kepler-619 b
+kepler-619 c
+kepler-62 b
+kepler-62 c
+kepler-62 d
+kepler-62 e
+kepler-62 f
+kepler-620 b
+kepler-621 b
+kepler-622 b
+kepler-623 b
+kepler-624 b
+kepler-625 b
+kepler-625 c
+kepler-626 b
+kepler-627 b
+kepler-628 b
+kepler-629 b
+kepler-63 b
+kepler-630 b
+kepler-631 b
+kepler-632 b
+kepler-633 b
+kepler-634 b
+kepler-635 b
+kepler-636 b
+kepler-637 b
+kepler-638 b
+kepler-639 b
+kepler-64 (ab) b
+kepler-640 b
+kepler-641 b
+kepler-642 b
+kepler-643 b
+kepler-644 b
+kepler-645 b
+kepler-646 b
+kepler-647 b
+kepler-647 c
+kepler-648 b
+kepler-649 b
+kepler-65 b
+kepler-65 c
+kepler-65 d
+kepler-65 e
+kepler-650 b
+kepler-651 b
+kepler-652 b
+kepler-653 b
+kepler-653 c
+kepler-654 b
+kepler-655 b
+kepler-656 b
+kepler-657 b
+kepler-658 b
+kepler-659 b
+kepler-66 b
+kepler-660 b
+kepler-661 b
+kepler-662 b
+kepler-663 b
+kepler-664 b
+kepler-665 b
+kepler-666 b
+kepler-667 b
+kepler-668 b
+kepler-669 b
+kepler-67 b
+kepler-670 b
+kepler-671 b
+kepler-672 b
+kepler-673 b
+kepler-674 b
+kepler-675 b
+kepler-676 b
+kepler-677 b
+kepler-678 b
+kepler-679 b
+kepler-68 b
+kepler-68 c
+kepler-68 d
+kepler-680 b
+kepler-681 b
+kepler-682 b
+kepler-683 b
+kepler-684 b
+kepler-685 b
+kepler-686 b
+kepler-687 b
+kepler-688 b
+kepler-689 b
+kepler-69 b
+kepler-69 c
+kepler-690 b
+kepler-691 b
+kepler-692 b
+kepler-693 b
+kepler-694 b
+kepler-695 b
+kepler-696 b
+kepler-697 b
+kepler-698 b
+kepler-7 b
+kepler-700 b
+kepler-701 b
+kepler-702 b
+kepler-703 b
+kepler-704 b
+kepler-705 b
+kepler-706 b
+kepler-707 b
+kepler-708 b
+kepler-709 b
+kepler-71 b
+kepler-710 b
+kepler-711 b
+kepler-712 b
+kepler-712 c
+kepler-713 b
+kepler-714 b
+kepler-715 b
+kepler-716 b
+kepler-716 c
+kepler-717 b
+kepler-718 b
+kepler-719 b
+kepler-720 b
+kepler-721 b
+kepler-722 b
+kepler-722 c
+kepler-723 b
+kepler-724 b
+kepler-725 b
+kepler-726 b
+kepler-727 b
+kepler-728 b
+kepler-729 b
+kepler-730 b
+kepler-730 c
+kepler-731 b
+kepler-732 b
+kepler-732 c
+kepler-733 b
+kepler-734 b
+kepler-735 b
+kepler-736 b
+kepler-737 b
+kepler-738 b
+kepler-739 b
+kepler-74 b
+kepler-740 b
+kepler-741 b
+kepler-742 b
+kepler-743 b
+kepler-744 b
+kepler-745 b
+kepler-746 b
+kepler-748 b
+kepler-749 b
+kepler-75 b
+kepler-750 b
+kepler-750 c
+kepler-751 b
+kepler-752 b
+kepler-753 b
+kepler-754 b
+kepler-755 b
+kepler-755 c
+kepler-756 b
+kepler-757 b
+kepler-758 b
+kepler-758 c
+kepler-758 d
+kepler-758 e
+kepler-759 b
+kepler-76 b
+kepler-760 b
+kepler-760 c
+kepler-761 b
+kepler-762 b
+kepler-763 b
+kepler-764 b
+kepler-765 b
+kepler-766 b
+kepler-767 b
+kepler-768 b
+kepler-769 b
+kepler-769 c
+kepler-77 b
+kepler-770 b
+kepler-770 c
+kepler-770 d
+kepler-771 b
+kepler-772 b
+kepler-773 b
+kepler-774 b
+kepler-775 b
+kepler-776 b
+kepler-777 b
+kepler-778 b
+kepler-779 b
+kepler-78 b
+kepler-780 b
+kepler-781 b
+kepler-782 b
+kepler-783 b
+kepler-783 c
+kepler-784 b
+kepler-785 b
+kepler-786 b
+kepler-787 b
+kepler-788 b
+kepler-789 b
+kepler-79 b
+kepler-79 c
+kepler-79 d
+kepler-79 e
+kepler-790 b
+kepler-791 b
+kepler-792 b
+kepler-793 b
+kepler-794 b
+kepler-795 b
+kepler-796 b
+kepler-797 b
+kepler-798 b
+kepler-799 b
+kepler-8 b
+kepler-80 b
+kepler-80 c
+kepler-80 d
+kepler-80 e
+kepler-80 f
+kepler-80 g
+kepler-800 b
+kepler-801 b
+kepler-802 b
+kepler-803 b
+kepler-804 b
+kepler-804 c
+kepler-805 b
+kepler-806 b
+kepler-807 b
+kepler-808 b
+kepler-809 b
+kepler-81 b
+kepler-81 c
+kepler-81 d
+kepler-810 b
+kepler-811 b
+kepler-812 b
+kepler-813 b
+kepler-814 b
+kepler-815 b
+kepler-816 b
+kepler-817 b
+kepler-818 b
+kepler-819 b
+kepler-82 b
+kepler-82 c
+kepler-82 d
+kepler-82 e
+kepler-82 f
+kepler-820 b
+kepler-821 b
+kepler-822 b
+kepler-823 b
+kepler-824 b
+kepler-825 b
+kepler-825 c
+kepler-826 b
+kepler-827 b
+kepler-828 b
+kepler-829 b
+kepler-83 b
+kepler-83 c
+kepler-83 d
+kepler-830 b
+kepler-831 b
+kepler-832 b
+kepler-833 b
+kepler-834 b
+kepler-835 b
+kepler-836 b
+kepler-837 b
+kepler-838 b
+kepler-839 b
+kepler-84 b
+kepler-84 c
+kepler-84 d
+kepler-84 e
+kepler-84 f
+kepler-841 b
+kepler-842 b
+kepler-843 b
+kepler-844 b
+kepler-845 b
+kepler-846 b
+kepler-847 b
+kepler-848 b
+kepler-849 b
+kepler-85 b
+kepler-85 c
+kepler-85 d
+kepler-85 e
+kepler-850 b
+kepler-851 b
+kepler-852 b
+kepler-853 b
+kepler-855 b
+kepler-856 b
+kepler-857 b
+kepler-858 b
+kepler-859 b
+kepler-86 b
+kepler-860 b
+kepler-861 b
+kepler-862 b
+kepler-863 b
+kepler-864 b
+kepler-865 b
+kepler-866 b
+kepler-867 b
+kepler-868 b
+kepler-869 b
+kepler-87 b
+kepler-87 c
+kepler-870 b
+kepler-871 b
+kepler-872 b
+kepler-873 b
+kepler-874 b
+kepler-875 b
+kepler-876 b
+kepler-877 b
+kepler-878 b
+kepler-879 b
+kepler-88 d
+kepler-880 b
+kepler-881 b
+kepler-882 b
+kepler-883 b
+kepler-884 b
+kepler-885 b
+kepler-886 b
+kepler-887 b
+kepler-887 c
+kepler-888 b
+kepler-889 b
+kepler-89 b
+kepler-89 c
+kepler-89 d
+kepler-89 e
+kepler-890 b
+kepler-891 b
+kepler-892 b
+kepler-893 b
+kepler-894 b
+kepler-895 b
+kepler-896 b
+kepler-897 b
+kepler-898 b
+kepler-899 b
+kepler-9 b
+kepler-9 c
+kepler-9 d
+kepler-90 b
+kepler-90 c
+kepler-90 d
+kepler-90 e
+kepler-90 f
+kepler-90 g
+kepler-90 h
+kepler-90 i
+kepler-900 b
+kepler-901 b
+kepler-902 b
+kepler-903 b
+kepler-903 c
+kepler-904 b
+kepler-905 b
+kepler-906 b
+kepler-907 b
+kepler-908 b
+kepler-909 b
+kepler-91 b
+kepler-910 b
+kepler-911 b
+kepler-912 b
+kepler-913 b
+kepler-914 b
+kepler-915 b
+kepler-916 b
+kepler-917 b
+kepler-918 b
+kepler-919 b
+kepler-92 b
+kepler-92 c
+kepler-92 d
+kepler-920 b
+kepler-920 c
+kepler-921 b
+kepler-922 b
+kepler-923 b
+kepler-924 b
+kepler-925 b
+kepler-926 b
+kepler-927 b
+kepler-928 b
+kepler-929 b
+kepler-93 b
+kepler-93 c
+kepler-930 b
+kepler-931 b
+kepler-932 b
+kepler-933 b
+kepler-934 b
+kepler-935 b
+kepler-936 b
+kepler-937 b
+kepler-937 c
+kepler-938 b
+kepler-939 b
+kepler-94 b
+kepler-94 c
+kepler-940 b
+kepler-941 b
+kepler-942 b
+kepler-943 b
+kepler-944 b
+kepler-945 b
+kepler-946 b
+kepler-947 b
+kepler-948 b
+kepler-949 b
+kepler-95 b
+kepler-950 b
+kepler-951 b
+kepler-952 b
+kepler-953 b
+kepler-953 c
+kepler-954 b
+kepler-955 b
+kepler-956 b
+kepler-957 b
+kepler-958 b
+kepler-959 b
+kepler-96 b
+kepler-960 b
+kepler-961 b
+kepler-962 b
+kepler-963 b
+kepler-964 b
+kepler-965 b
+kepler-966 b
+kepler-967 b
+kepler-967 c
+kepler-968 b
+kepler-968 c
+kepler-969 b
+kepler-969 c
+kepler-97 b
+kepler-97 c
+kepler-970 b
+kepler-971 b
+kepler-972 b
+kepler-973 b
+kepler-974 b
+kepler-975 b
+kepler-976 b
+kepler-977 b
+kepler-978 b
+kepler-979 b
+kepler-98 b
+kepler-980 b
+kepler-981 b
+kepler-982 b
+kepler-983 b
+kepler-984 b
+kepler-985 b
+kepler-986 b
+kepler-987 b
+kepler-988 b
+kepler-989 b
+kepler-99 b
+kepler-990 b
+kepler-990 c
+kepler-991 b
+kepler-992 b
+kepler-993 b
+kepler-994 b
+kepler-995 b
+kepler-996 b
+kepler-997 b
+kepler-998 b
+kepler-999 b
+l 168-9 b
+l 98-59 b
+l 98-59 c
+l 98-59 d
+l 98-59 e
+l2 pup b
+lhs 1140 b
+lhs 1140 c
+lhs 1478 b
+lhs 1610 b
+lhs 1678 b
+lhs 1678 c
+lhs 1815 b
+lhs 2397a b
+lhs 3844 b
+lhs 6176 b
+lkca 15 b
+lp 261-75 b
+lp 358-499 e
+lp 714-47 b
+lp 791-18 b
+lp 791-18 c
+lp 890-9 b
+lp 890-9 c
+lspm j2116+0234 b
+lsr j1835
+ltt 1445a b
+ltt 1445a c
+ltt 3780 b
+ltt 3780 c
+ltt 9779 b
+lalande 21185 b
+lalande 21185 c
+lkca 15 c
+luhman 16 a
+luhman 16 b
+lupus-tr-3 b
+marvels-10 b
+marvels-11 b
+marvels-12 b
+marvels-13 b
+marvels-16 b
+marvels-17 b
+marvels-18 b
+marvels-19 b
+marvels-8 b
+mascara-1 b
+mascara-2 b
+mascara-3 b
+moa 2009-blg-411l b
+moa-2007-blg-192l b
+moa-2007-blg-197l b
+moa-2007-blg-400l b
+moa-2008-blg-310l b
+moa-2008-blg-379l b
+moa-2009-blg-266l b
+moa-2009-blg-319l b
+moa-2009-blg-387l b
+moa-2010-blg-073l b
+moa-2010-blg-117 b
+moa-2010-blg-328l b
+moa-2010-blg-353l b
+moa-2010-blg-477l b
+moa-2011-blg-028l b
+moa-2011-blg-262l b
+moa-2011-blg-274 b
+moa-2011-blg-291 b
+moa-2011-blg-293l b
+moa-2011-blg-322l b
+moa-2012-blg-006 b
+moa-2012-blg-505l b
+moa-2013-blg-220l b
+moa-2013-blg-605l b
+moa-2014-blg-472 b
+moa-2015-blg-337 a
+moa-2015-blg-337 b
+moa-2016-blg-227l b
+moa-2016-blg-231 b
+moa-2016-blg-319l b
+moa-2019-blg-008l b
+moa-2020-blg-135 b
+moa-bin-1l b
+moa-bin-29 b
+ngc 2423 3 b
+ngc 4349 127 b
+ngts-1 b
+ngts-10 b
+ngts-11 b
+ngts-11 c
+ngts-12 b
+ngts-13 b
+ngts-14a b
+ngts-15 b
+ngts-16 b
+ngts-17 b
+ngts-18 b
+ngts-2 b
+ngts-20 b
+ngts-3a b
+ngts-4 b
+ngts-5 b
+ngts-6 b
+ngts-7a b
+ngts-8 b
+ngts-9 b
+nltt 25473 b
+nltt 41135 b
+nltt 5306 b
+nn ser (ab) c
+nn ser (ab) d
+nsvs 1425 (ab) d
+ny vir (ab) b
+ny vir (ab) c
+ogl-2017-blg-0614 b
+ogle--2018-blg-0516 b
+ogle-2003-blg-235l b
+ogle-2005-071l b
+ogle-2005-169l b
+ogle-2005-390l b
+ogle-2006-109l b
+ogle-2006-109l c
+ogle-2006-blg-284 b
+ogle-2007-blg-349l (ab) b
+ogle-2007-blg-368l b
+ogle-2008-blg-092l a b
+ogle-2008-blg-355l b
+ogle-2009-blg-151l b
+ogle-2011-blg-0173l b
+ogle-2011-blg-0251l b
+ogle-2011-blg-0265l b
+ogle-2011-blg-0420l b
+ogle-2012-blg-0026l b
+ogle-2012-blg-0026l c
+ogle-2012-blg-0358l b
+ogle-2012-blg-0406l b
+ogle-2012-blg-0563l b
+ogle-2012-blg-0724l b
+ogle-2012-blg-0838 b
+ogle-2012-blg-0950l b
+ogle-2012-blg-1323
+ogle-2013-blg-0102l b
+ogle-2013-blg-0132l b
+ogle-2013-blg-0341l b
+ogle-2013-blg-0578l b
+ogle-2013-blg-0911l b
+ogle-2013-blg-1721l b
+ogle-2013-blg-1761l b
+ogle-2014-blg-0124l b
+ogle-2014-blg-0257l b
+ogle-2014-blg-0319 b
+ogle-2014-blg-0676l b
+ogle-2014-blg-1112l b
+ogle-2014-blg-1186l b
+ogle-2014-blg-1722l b
+ogle-2014-blg-1722l c
+ogle-2014-blg-1760l b
+ogle-2015-blg-0051l b
+ogle-2015-blg-0954l b
+ogle-2015-blg-0966l b
+ogle-2015-blg-1319l b
+ogle-2015-blg-1649 b
+ogle-2015-blg-1670l b
+ogle-2015-blg-1771l b
+ogle-2016-blg-0263l b
+ogle-2016-blg-0613l (ab) b
+ogle-2016-blg-0693l b
+ogle-2016-blg-0890 b
+ogle-2016-blg-1067l b
+ogle-2016-blg-1093l b
+ogle-2016-blg-1190l b
+ogle-2016-blg-1195l b
+ogle-2016-blg-1227 b
+ogle-2016-blg-1266l b
+ogle-2016-blg-1469l b
+ogle-2016-blg-1540
+ogle-2016-blg-1928
+ogle-2016-blg-596l b
+ogle-2017-blg-0114 b
+ogle-2017-blg-0173l b
+ogle-2017-blg-0373l b
+ogle-2017-blg-0406 b
+ogle-2017-blg-0482 b
+ogle-2017-blg-0560
+ogle-2017-blg-0604 b
+ogle-2017-blg-0896
+ogle-2017-blg-1049 b
+ogle-2017-blg-1099 b
+ogle-2017-blg-1140l b
+ogle-2017-blg-1375 b
+ogle-2017-blg-1434l b
+ogle-2017-blg-1522l b
+ogle-2018-blg-0271
+ogle-2018-blg-0298 b
+ogle-2018-blg-0360
+ogle-2018-blg-0383 b
+ogle-2018-blg-0506 b
+ogle-2018-blg-0532 b
+ogle-2018-blg-0567l b
+ogle-2018-blg-0596 b
+ogle-2018-blg-0677l b
+ogle-2018-blg-0740l b
+ogle-2018-blg-0799 b
+ogle-2018-blg-0932
+ogle-2018-blg-0962
+ogle-2018-blg-0977 b
+ogle-2018-blg-1119 b
+ogle-2018-blg-1126
+ogle-2018-blg-1185 b
+ogle-2018-blg-1212
+ogle-2018-blg-1269l b
+ogle-2018-blg-1367
+ogle-2018-blg-1428l b
+ogle-2018-blg-1489 b
+ogle-2018-blg-1544 b
+ogle-2018-blg-1647
+ogle-2018-blg-1700l b
+ogle-2018blg-1011l b
+ogle-2018blg-1011l c
+ogle-2019-blg-0033
+ogle-2019-blg-0299 b
+ogle-2019-blg-0362 b
+ogle-2019-blg-0468l b
+ogle-2019-blg-0468l c
+ogle-2019-blg-0551
+ogle-2019-blg-0954l b
+ogle-2019-blg-0960 b
+ogle-2019-blg-1053l b
+ogle-2019-blg-1470lab b
+ogle-2019-blg-1492 b
+ogle-gd-ecl-11388 b
+ogle-tr-10 b
+ogle-tr-111 b
+ogle-tr-113 b
+ogle-tr-132 b
+ogle-tr-182 b
+ogle-tr-211 b
+ogle-tr-56 b
+ogle2-tr-l9 b
+oy car b
+oph 98 b
+pds 70 b
+pds 70 c
+phl 5038 b
+pots-1 b
+ppl 15 b
+pso j318-5-22
+psr 0636 b
+psr 1257 12 b
+psr 1257 12 c
+psr 1257 12 d
+psr 1719-14 b
+psr b0329+54 b
+psr b0943+10 b
+psr b0943+10 c
+psr b1620-26 (ab) b
+psr b1957+20 b
+psr j1311-3430 b
+psr j1446-4701 b
+psr j1502-6752 b
+psr j1544+4937 b
+psr j1745+1017 b
+psr j1807-2459 a b
+psr j2051-0827 b
+psr j2055+3829 b
+psr j2241-5236 b
+psr j2322-2650 b
+psr m13e b
+pz tel b
+pr 0201 b
+pr 0211 b
+pr 0211 c
+proplyd 133-353
+proxima centauri b
+proxima centauri d
+qz ser b
+qatar-1 b
+qatar-10 b
+qatar-2 b
+qatar-3 b
+qatar-4 b
+qatar-5 b
+qatar-6 a b
+qatar-7 b
+qatar-8 b
+qatar-9 b
+rik 72 b
+roxs 12 b
+roxs 42b (ab) b
+rr cae (ab) b
+ross 128 b
+ross 19 b
+ross 458 (ab) c
+ross 508 b
+s ori 68
+sand 364 b
+scr 1845 b
+sdss 1604+1000 b
+sdss j080531+481233 a
+sdss j080531+481233 b
+sdss j105213-51+442255-7 a
+sdss j105213-51+442255-7 b
+sdss j1110+0116
+sdss j1228+1040 b
+sdss j1411+2009 b
+simp0136+0933
+smss j1606-1000 b
+sr 12 (ab) c
+sssj0522-3505 b
+sw sex b
+sweeps-04 b
+sweeps-11 b
+sand 178 b
+tap 26 b
+tcp j050742+244755 b
+tic 172900988 (ab) b
+tic 237913194 b
+toi-1062 b
+toi-1062 c
+toi-1064 b
+toi-1064 c
+toi-1075 b
+toi-1098 b
+toi-1107 b
+toi-1130 b
+toi-1130 c
+toi-1181 b
+toi-1201 b
+toi-122 b
+toi-1221 b
+toi-1227 b
+toi-1231 b
+toi-1235 b
+toi-1238 b
+toi-1238 c
+toi-1246 b
+toi-1246 c
+toi-1246 d
+toi-1246 e
+toi-125 b
+toi-125 c
+toi-125 d
+toi-1259a b
+toi-1260 b
+toi-1260 c
+toi-1266 b
+toi-1266 c
+toi-1268 b
+toi-1272 b
+toi-1272 c
+toi-1278 b
+toi-1296 b
+toi-1298 b
+toi-132 b
+toi-1333 b
+toi-1338 b
+toi-1406 b
+toi-1411 b
+toi-1422 b
+toi-1422 c
+toi-1430 b
+toi-1431 b
+toi-1442 b
+toi-1444 b
+toi-1444 c
+toi-1452 b
+toi-1468 b
+toi-1468 c
+toi-1478 b
+toi-150 b
+toi-1516 b
+toi-1518 b
+toi-157 b
+toi-1601 b
+toi-163 b
+toi-1634 b
+toi-1669 b
+toi-1669 c
+toi-1670 b
+toi-1670 c
+toi-1683 b
+toi-1685 b
+toi-169 b
+toi-1693 b
+toi-1694 b
+toi-1694 c
+toi-1696 b
+toi-1710 b
+toi-172 b
+toi-1728 b
+toi-1749 b
+toi-1749 c
+toi-1749 d
+toi-1759 b
+toi-178 b
+toi-178 c
+toi-178 d
+toi-178 e
+toi-178 f
+toi-178 g
+toi-1789 b
+toi-1807 b
+toi-1811 b
+toi-1820 b
+toi-1842 b
+toi-1860 b
+toi-1899 b
+toi-2000 b
+toi-2000 c
+toi-201 b
+toi-2025 b
+toi-203 b
+toi-2046 b
+toi-2048 b
+toi-206 b
+toi-2076 b
+toi-2076 c
+toi-2076 d
+toi-2081 b
+toi-2109 b
+toi-2136 b
+toi-2145 b
+toi-2152 b
+toi-2154 b
+toi-2158 b
+toi-216 b
+toi-216 c
+toi-2180 b
+toi-2184 b
+toi-2193 b
+toi-2196 b
+toi-220 b
+toi-2202 b
+toi-2202 c
+toi-2207 b
+toi-2236 b
+toi-2257 b
+toi-2260 b
+toi-2285 b
+toi-2337 b
+toi-237 b
+toi-2406 b
+toi-2411 b
+toi-2421 b
+toi-2427 b
+toi-2445 b
+toi-2497 b
+toi-251 b
+toi-2545 b
+toi-2567 b
+toi-257 b
+toi-2570 b
+toi-263 b
+toi-2669 b
+toi-269 b
+toi-270 b
+toi-270 c
+toi-270 d
+toi-3331 b
+toi-3362 b
+toi-3540 b
+toi-3629 b
+toi-3693 b
+toi-3714 b
+toi-3757 b
+toi-402 b
+toi-402 c
+toi-4137 b
+toi-4138 b
+toi-421 b
+toi-421 c
+toi-431 b
+toi-431 c
+toi-431 d
+toi-4329 b
+toi-4479 b
+toi-451 b
+toi-451 c
+toi-451 d
+toi-4562 b
+toi-481 b
+toi-500 b
+toi-500 c
+toi-500 d
+toi-500 e
+toi-503 b
+toi-5153 b
+toi-5174 b
+toi-5205 b
+toi-5238 b
+toi-530 b
+toi-532 b
+toi-5398 b
+toi-540 b
+toi-544 b
+toi-5542 b
+toi-558 b
+toi-559 b
+toi-561 b
+toi-561 c
+toi-561 d
+toi-561 e
+toi-564 b
+toi-620 b
+toi-620 c
+toi-628 b
+toi-640 b
+toi-674 b
+toi-677 b
+toi-700 b
+toi-700 c
+toi-700 d
+toi-712 b
+toi-712 c
+toi-712 d
+toi-717 b
+toi-763 b
+toi-763 c
+toi-776 b
+toi-776 c
+toi-811 b
+toi-813 b
+toi-824 b
+toi-833 b
+toi-836 b
+toi-836 c
+toi-849 b
+toi-852 b
+toi-892 b
+toi-905 b
+toi-942 b
+toi-942 c
+toi-954 b
+trappist-1 b
+trappist-1 c
+trappist-1 d
+trappist-1 e
+trappist-1 f
+trappist-1 g
+trappist-1 h
+tvlm 513-46546 b
+twa 5 a (ab) b
+tyc 2187-512-1 b
+tyc 3318-01333-1 b
+tyc 3667-1280-1 b
+tyc 4282-605-1 b
+tyc 8998-760-1 b
+tyc 8998-760-1 c
+tyc+1422-614-1 b
+tyc+1422-614-1 c
+teegarden-s b
+teegarden-s c
+teide 1
+tres-1 b
+tres-2 a b
+tres-3 b
+tres-4 b
+tres-5 b
+ugps j0722-0540
+ukirt-2017-blg-001 b
+ulas1335
+ulasj0034
+usco 1556a b
+usco 1621a b
+usco j155150-2-213457
+usco1610-1913 b
+usco1612-1800 b
+uscoctio 108 b
+uz for (ab) b
+uz for (ab) c
+v 1298 tau b
+v 1298 tau c
+v 1298 tau d
+v 1298 tau e
+v 921 sco b
+v 2384 ori a
+v 2384 ori b
+v2051 oph (ab) b
+v391 peg b
+v396 hya b
+v470 cam (ab) b
+v470 cam (ab) c
+vhs 1256-1257 b
+wasp-1 b
+wasp-10 b
+wasp-100 b
+wasp-101 b
+wasp-102 b
+wasp-103 b
+wasp-104 b
+wasp-105 b
+wasp-106 b
+wasp-107 b
+wasp-107 c
+wasp-108 b
+wasp-109 b
+wasp-110 b
+wasp-111 b
+wasp-112 b
+wasp-113 b
+wasp-114 b
+wasp-117 b
+wasp-118 b
+wasp-119 b
+wasp-12 b
+wasp-120 b
+wasp-121 b
+wasp-122 b
+wasp-123 b
+wasp-124 b
+wasp-126 b
+wasp-126 c
+wasp-127 b
+wasp-128 b
+wasp-129 b
+wasp-13 b
+wasp-130 b
+wasp-131 b
+wasp-132 b
+wasp-132 c
+wasp-133 b
+wasp-134 b
+wasp-134 c
+wasp-135 b
+wasp-136 b
+wasp-137 b
+wasp-138 b
+wasp-139 b
+wasp-14 b
+wasp-140 b
+wasp-141 b
+wasp-142 b
+wasp-143 b
+wasp-144 b
+wasp-145 a b
+wasp-146 b
+wasp-147 b
+wasp-148 b
+wasp-148 c
+wasp-15 b
+wasp-150 b
+wasp-151 b
+wasp-153 b
+wasp-156 b
+wasp-157 b
+wasp-158 b
+wasp-159 b
+wasp-16 b
+wasp-160 b b
+wasp-161 b
+wasp-162 b
+wasp-163 b
+wasp-164 b
+wasp-165 b
+wasp-166 b
+wasp-167 b
+wasp-168 b
+wasp-169 b
+wasp-17 b
+wasp-170 b
+wasp-171 b
+wasp-172 b
+wasp-174 b
+wasp-175 b
+wasp-176 b
+wasp-177 b
+wasp-178 b
+wasp-18 b
+wasp-18 c
+wasp-180 a b
+wasp-181 b
+wasp-182 b
+wasp-183 b
+wasp-184 b
+wasp-185 b
+wasp-186 b
+wasp-187 b
+wasp-189 b
+wasp-19 b
+wasp-190 b
+wasp-192 b
+wasp-2 a b
+wasp-20 a b
+wasp-21 b
+wasp-22 b
+wasp-23 b
+wasp-24 b
+wasp-25 b
+wasp-26 b
+wasp-28 b
+wasp-29 b
+wasp-3 b
+wasp-30 b
+wasp-31 b
+wasp-32 b
+wasp-33 b
+wasp-34 b
+wasp-35 b
+wasp-36 b
+wasp-37 b
+wasp-38 b
+wasp-39 b
+wasp-4 b
+wasp-41 b
+wasp-41 c
+wasp-42 b
+wasp-43 b
+wasp-44 b
+wasp-45 b
+wasp-46 b
+wasp-47 b
+wasp-47 c
+wasp-47 d
+wasp-47 e
+wasp-48 b
+wasp-49 a b
+wasp-5 b
+wasp-50 b
+wasp-52 b
+wasp-53 b
+wasp-53 c
+wasp-54 b
+wasp-55 b
+wasp-56 b
+wasp-57 b
+wasp-58 b
+wasp-59 b
+wasp-6 b
+wasp-60 b
+wasp-61 b
+wasp-62 b
+wasp-63 b
+wasp-64 b
+wasp-65 b
+wasp-66 b
+wasp-67 b
+wasp-68 b
+wasp-69 b
+wasp-7 b
+wasp-70 a b
+wasp-71 b
+wasp-72 b
+wasp-73 b
+wasp-74 b
+wasp-75 b
+wasp-76 b
+wasp-77 a b
+wasp-78 b
+wasp-79 b
+wasp-8 b
+wasp-8 c
+wasp-80 b
+wasp-81 b
+wasp-81 c
+wasp-82 b
+wasp-83 b
+wasp-84 b
+wasp-85 a b
+wasp-87 a b
+wasp-88 b
+wasp-89 b
+wasp-90 b
+wasp-91 b
+wasp-92 b
+wasp-93 b
+wasp-94 a b
+wasp-94 b b
+wasp-95 b
+wasp-96 b
+wasp-97 b
+wasp-98 b
+wasp-99 b
+wd 0137-349 b
+wd 0806-661 b b
+wd 0837+185 b
+wd 1032+011 b
+wd 1145+017 b
+wd 1856+534 b
+wd j0914+1914 b
+wise 0855-0714
+wise 1118+3125
+wise 1217+16 a b
+wise 1711+3500 b
+wise 1828+2650
+wise 2005+5424
+wise 2150a b
+wise j0458+6434 a
+wise j0458+6434 b
+wise j0720-0846
+wise j1355-8258 b
+wise j2216+1952
+wise0047
+wisea j083011-95+283716-0
+wts-1 b
+wts-2 b
+wendelstein-1 b
+wendelstein-2 b
+wolf 1061 b
+wolf 1061 c
+wolf 1061 d
+wolf 359 b
+wolf 359 c
+wolf 503 b
+wolf 940 b
+xo-1 b
+xo-2n b
+xo-2s b
+xo-2s c
+xo-3 b
+xo-4 b
+xo-5 b
+xo-6 b
+xo-7 b
+xte j1751-305 b
+xte j1807-294 b
+ybp1194 b
+ybp1514 b
+ybp401 b
+yses 2 b
+yz cet b
+yz cet c
+yz cet d
+yz lmi b
+ztf j0038+2030 b
+ztf-j1622+47 b
+ztfj0003+14 b
+ztfj0220+21 b
+ztfj0407-00 b
+ztfj1637+49 b
+ztfj2252-05 b
+[bhb2007]-1 b
+alf ari b
+b cen b
+beta cir b
+beta cnc b
+beta pic b
+beta pic c
+beta umi b
+eps crb b
+eps eridani b
+eps ind a b
+eps tau b
+eta cet b
+eta cet c
+gam psc b
+gamma 1 leo b
+gamma cephei b
+gamma lib b
+gamma lib c
+kappa and b
+kappa crb b
+ksi aql b
+mu ara b
+mu ara c
+mu ara d
+mu ara e
+mu leo b
+mu2 sco b
+nu oph b
+nu oph c
+ome ser b
+omi crb b
+omi uma a b
+pi men b
+pi men c
+pi men d
+sig per b
+tau boo a b
+tau cet e
+tau cet f
+tau cet g
+tau cet h
+tau gem b
+ups and b
+ups and c
+ups and d
+ups and e
+ups leo b
+zet del b
